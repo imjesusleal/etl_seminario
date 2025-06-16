@@ -1,3 +1,3 @@
-# Proyecto ETL-Seminario
+# Proyecto ETL-Seminario Grupo 1
 
-Proyecto de la materia seminario.
+Proyecto del grupo 1 de la materia seminario.
