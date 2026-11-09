@@ -2,6 +2,8 @@
 
 CSVs exportados desde `novashop_analitico.db` (post-ETL).
 
+**Qué debe mostrar el dashboard:** ver `../../DASHBOARD.md`.
+
 ## Recomendado para el modelo
 - Hechos: `fact_ventas.csv`, `fact_tickets.csv`
 - Dimensiones: `dim_clientes.csv`, `dim_inventario.csv`

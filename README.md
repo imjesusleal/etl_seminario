@@ -1,8 +1,9 @@
 # NovaShop — Trabajo Práctico Integrador
 
 **Guía para armar la presentación** (tono narrativo, no técnico).  
-Para instalar y correr el proyecto: [`SETUP.md`](./SETUP.md).  
-Detalle técnico (modelo, SQL, ETL): [`DOCUMENTACION_TECNICA.md`](./DOCUMENTACION_TECNICA.md).
+- Instalar / correr: [`SETUP.md`](./SETUP.md)  
+- Qué debe mostrar el dashboard: [`DASHBOARD.md`](./DASHBOARD.md)  
+- Detalle técnico: [`DOCUMENTACION_TECNICA.md`](./DOCUMENTACION_TECNICA.md)
 
 **Equipo:** Grupo 1  
 **Rol:** área interna de datos de NovaShop  
@@ -147,6 +148,7 @@ En temas de soporte (alto valor) aparecen fuerte:
 
 ## 7. Dashboard / indicadores (Power BI)
 
+Especificación completa de páginas y visuales: [`DASHBOARD.md`](./DASHBOARD.md).  
 Datos listos en `output/powerbi/`.
 
 ### KPIs sugeridos de portada
