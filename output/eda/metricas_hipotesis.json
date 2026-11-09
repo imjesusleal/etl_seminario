@@ -1,0 +1,27 @@
+{
+  "corr_monto_vs_tickets": 0.0015,
+  "corr_monto_vs_sin_resolucion": -0.0267,
+  "resumen_segmentos": {
+    "bajo": {
+      "clientes": 261,
+      "monto_promedio": 242.794,
+      "tickets_promedio": 0.95,
+      "sin_resolucion_promedio": 0.307,
+      "pct_con_ticket": 0.617
+    },
+    "medio": {
+      "clientes": 279,
+      "monto_promedio": 923.593,
+      "tickets_promedio": 1.0,
+      "sin_resolucion_promedio": 0.323,
+      "pct_con_ticket": 0.631
+    },
+    "alto": {
+      "clientes": 98,
+      "monto_promedio": 1998.843,
+      "tickets_promedio": 0.939,
+      "sin_resolucion_promedio": 0.245,
+      "pct_con_ticket": 0.602
+    }
+  }
+}

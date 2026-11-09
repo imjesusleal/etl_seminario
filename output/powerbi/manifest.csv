@@ -1,0 +1,11 @@
+﻿dataset,filas,archivo
+dim_clientes,500,dim_clientes.csv
+fact_ventas,1000,fact_ventas.csv
+fact_tickets,1000,fact_tickets.csv
+dim_inventario,1000,dim_inventario.csv
+cliente_resumen,874,cliente_resumen.csv
+calidad_reporte,6,calidad_reporte.csv
+v_cliente_valor_soporte,874,v_cliente_valor_soporte.csv
+v_tickets_pendientes_alto_valor,209,v_tickets_pendientes_alto_valor.csv
+v_ventas_mensuales,13,v_ventas_mensuales.csv
+kpis,8,kpis.csv

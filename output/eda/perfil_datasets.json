@@ -1,0 +1,64 @@
+{
+  "cliente_resumen": {
+    "filas": 874,
+    "columnas": 13,
+    "dtypes": {
+      "id_cliente": "int64",
+      "nombre": "object",
+      "email": "object",
+      "fecha_registro": "object",
+      "cantidad_ventas": "int64",
+      "monto_total_ventas": "float64",
+      "ticket_promedio": "float64",
+      "cantidad_tickets": "int64",
+      "tickets_abiertos": "int64",
+      "tickets_en_progreso": "int64",
+      "tickets_cerrados": "int64",
+      "tickets_sin_resolucion": "int64",
+      "en_maestro_clientes": "int64"
+    }
+  },
+  "fact_ventas": {
+    "filas": 1000,
+    "columnas": 10,
+    "dtypes": {
+      "id_venta": "object",
+      "fecha": "datetime64[ns]",
+      "producto": "object",
+      "cantidad": "int64",
+      "precio_unitario": "float64",
+      "total_venta": "float64",
+      "id_cliente": "int64",
+      "en_maestro_clientes": "int64",
+      "es_outlier_monto": "int64",
+      "anio_mes": "object"
+    }
+  },
+  "fact_tickets": {
+    "filas": 1000,
+    "columnas": 9,
+    "dtypes": {
+      "ticket_id": "object",
+      "fecha_creacion": "datetime64[ns]",
+      "id_cliente": "int64",
+      "tema": "object",
+      "estado": "object",
+      "resolucion": "object",
+      "sin_resolucion": "int64",
+      "en_maestro_clientes": "int64",
+      "anio_mes": "object"
+    }
+  },
+  "dim_inventario": {
+    "filas": 1000,
+    "columnas": 6,
+    "dtypes": {
+      "id_producto": "int64",
+      "nombre_producto": "object",
+      "categoria": "object",
+      "stock_actual": "int64",
+      "precio_costo": "float64",
+      "proveedor": "object"
+    }
+  }
+}

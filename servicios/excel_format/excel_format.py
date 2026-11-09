@@ -5,7 +5,7 @@ import os
 
 class ExcelFormat():
 
-    HOJAS = ['Clientes', 'Ventas', 'Tickets', 'Inventario', 'Agrupado']
+    HOJAS = ['ClienteResumen', 'Clientes', 'Ventas', 'Tickets', 'Inventario', 'Calidad', 'AgrupadoDetalle']
 
     def __init__(self, path: str):
         self.__path = path

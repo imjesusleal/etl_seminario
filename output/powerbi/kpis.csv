@@ -1,0 +1,9 @@
+﻿kpi,valor,descripcion
+monto_total_ventas,516938.4,Facturacion total
+cantidad_ventas,1000.0,Cantidad de ventas
+clientes_con_ventas,638.0,Clientes con al menos una venta
+cantidad_tickets,1000.0,Tickets totales
+pct_tickets_sin_resolucion,31.8,% tickets sin resolucion
+tickets_pendientes,665.0,Tickets Abierto + En progreso
+clientes_alto_valor_con_ticket_pendiente,147.0,Alto valor con soporte pendiente/sin resolucion
+pct_ventas_huerfanas_crm,24.1,% ventas sin match en CRM

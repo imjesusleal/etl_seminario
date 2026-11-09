@@ -1,0 +1,875 @@
+﻿id_cliente,nombre,email,fecha_registro,cantidad_ventas,monto_total_ventas,ticket_promedio,cantidad_tickets,tickets_abiertos,tickets_en_progreso,tickets_cerrados,tickets_sin_resolucion,en_maestro_clientes
+1,Joe Lewis,cynthiaoliver@frank-dunn.com,2022-03-29 00:00:00,1,251.5,251.5,1,0,0,1,1,1
+2,Andrew Fisher,tara26@hotmail.com,2024-03-13 00:00:00,2,1722.9600000000003,861.4800000000001,0,0,0,0,0,1
+3,Aaron Johnson,qbyrd@bryant.org,2022-10-03 00:00:00,1,290.12,290.12,2,0,0,2,1,1
+4,Kristina Dickson,mccormickpamela@le.com,2024-03-12 00:00:00,2,573.19,286.595,0,0,0,0,0,1
+5,Austin Moore,dennis25@wagner-floyd.biz,2023-03-05 00:00:00,2,1102.68,551.34,1,0,1,0,0,1
+6,Andrew Ibarra,carl55@hotmail.com,2024-06-20 00:00:00,2,2128.58,1064.29,0,0,0,0,0,1
+7,James Daniels,kbaird@hotmail.com,2024-06-24 00:00:00,1,60.72,60.72,1,0,1,0,0,1
+8,Bailey Kent,barreratracy@gmail.com,2024-07-20 00:00:00,2,1514.08,757.04,1,0,0,1,0,1
+9,Frank Ellis,qadams@hotmail.com,2020-07-29 00:00:00,1,104.36,104.36,2,0,0,2,0,1
+10,Emily Medina,michellecoleman@yahoo.com,2024-11-19 00:00:00,2,411.87,205.935,0,0,0,0,0,1
+11,April Olsen,rbennett@sanchez.com,2022-03-05 00:00:00,3,939.5,313.1666666666667,5,2,1,2,0,1
+12,David Thomas,sandra61@yahoo.com,2021-02-01 00:00:00,0,0.0,0.0,3,0,1,2,1,1
+13,Patrick Vasquez,jonesdonald@parrish.com,2022-08-10 00:00:00,3,429.36,143.12,2,0,0,2,0,1
+14,Billy Armstrong,cassandrapeters@gmail.com,2024-07-19 00:00:00,2,1334.46,667.23,1,0,0,1,1,1
+15,Melissa Jones,grahamryan@church.com,2022-09-10 00:00:00,2,786.5999999999999,393.29999999999995,1,1,0,0,0,1
+16,Pamela Vargas,hdouglas@gmail.com,2025-03-06 00:00:00,0,0.0,0.0,4,2,0,2,1,1
+17,Albert Young,ycruz@hotmail.com,2022-11-17 00:00:00,2,552.52,276.26,2,1,1,0,0,1
+18,Duane Rowe,mmayer@yahoo.com,2023-12-15 00:00:00,2,914.9200000000001,457.46000000000004,1,0,0,1,0,1
+19,Ashley Tapia,brockwilliam@figueroa-jensen.biz,2021-06-13 00:00:00,1,395.68,395.68,1,1,0,0,0,1
+20,Taylor Ayala,allennicholas@gmail.com,2020-07-15 00:00:00,1,1248.48,1248.48,2,0,0,2,0,1
+21,Brian Schmitt,wardwilliam@ruiz-contreras.com,2024-10-17 00:00:00,1,459.03000000000003,459.03000000000003,1,0,1,0,0,1
+22,Michelle Brown,anthony38@yahoo.com,2022-12-26 00:00:00,0,0.0,0.0,3,0,2,1,2,1
+23,Robert Reynolds,shelleycoleman@murphy.info,2022-02-07 00:00:00,0,0.0,0.0,5,2,1,2,0,1
+24,Martin Johnson,stokescaroline@gmail.com,2022-01-27 00:00:00,0,0.0,0.0,3,0,3,0,2,1
+25,Paul Jacobs,debra14@gmail.com,2025-02-25 00:00:00,2,1620.6000000000001,810.3000000000001,0,0,0,0,0,1
+26,Marvin Wilson,johnnelson@drake.info,2021-06-02 00:00:00,2,594.02,297.01,0,0,0,0,0,1
+27,Melissa Jones,williamsmichael@gmail.com,2023-06-22 00:00:00,1,121.52,121.52,2,1,1,0,1,1
+28,Jason Mitchell,donna55@hotmail.com,2023-01-31 00:00:00,2,869.59,434.795,0,0,0,0,0,1
+29,Matthew Jennings,amber20@holmes.com,2024-10-09 00:00:00,2,188.35,94.175,0,0,0,0,0,1
+30,Lindsay Kelly,collierangelica@gmail.com,2021-01-06 00:00:00,2,1618.8999999999999,809.4499999999999,0,0,0,0,0,1
+31,Shawn Lowe,daughertymichael@hotmail.com,2023-12-07 00:00:00,1,712.4399999999999,712.4399999999999,1,0,1,0,0,1
+32,Jonathon Diaz,michael51@thomas.com,2022-01-03 00:00:00,2,737.4,368.7,1,1,0,0,0,1
+33,Amy Davidson,shawnho@koch.net,2023-02-17 00:00:00,2,958.69,479.345,1,0,0,1,1,1
+34,Stephanie Jones,xmorrison@hoffman-palmer.info,2024-09-25 00:00:00,2,671.93,335.965,1,0,0,1,0,1
+35,Amanda Brown,jennifer32@hotmail.com,2020-07-08 00:00:00,3,1005.8,335.26666666666665,0,0,0,0,0,1
+36,Erin Martin,vanessa00@kelly-bishop.net,2021-12-23 00:00:00,2,976.3299999999999,488.16499999999996,1,0,0,1,1,1
+37,Lindsey Williams,william01@yahoo.com,2023-11-01 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+38,Lindsay Foley,henryking@duran.com,2022-07-25 00:00:00,1,264.77,264.77,3,1,0,2,2,1
+39,John Williams,adammorales@ruiz.com,2021-04-14 00:00:00,1,695.6,695.6,2,0,1,1,1,1
+40,Michael Brown,scottmichael@underwood.com,2020-10-28 00:00:00,1,185.94,185.94,2,1,1,0,0,1
+41,Briana Bolton,melissaburns@yahoo.com,2022-04-09 00:00:00,2,1258.52,629.26,2,0,1,1,1,1
+42,Rodney Davies,stephenspamela@gmail.com,2022-06-17 00:00:00,1,289.94,289.94,3,0,2,1,2,1
+43,Ryan Edwards,aliciahess@compton-byrd.org,2023-01-07 00:00:00,1,33.3,33.3,2,0,1,1,1,1
+44,Scott Gilbert,dalton47@gmail.com,2022-07-28 00:00:00,1,958.5,958.5,3,1,1,1,0,1
+45,Sophia Dean,susan28@neal-long.com,2020-08-02 00:00:00,6,3842.4,640.4,0,0,0,0,0,1
+46,John Hill,travisdyer@gmail.com,2022-10-09 00:00:00,3,2797.96,932.6533333333333,2,0,0,2,1,1
+47,Shelley George,kwalker@gmail.com,2023-03-18 00:00:00,1,560.32,560.32,4,2,1,1,1,1
+48,William Jones,kgordon@gmail.com,2022-05-26 00:00:00,2,1748.64,874.32,1,0,1,0,0,1
+49,Erica Gomez,xbarrett@pope-mason.com,2022-04-15 00:00:00,4,2300.8099999999995,575.2024999999999,1,0,1,0,0,1
+50,Karen Best,david67@hotmail.com,2020-05-21 00:00:00,2,128.2,64.1,0,0,0,0,0,1
+51,Misty Matthews,oanderson@wilkins-alvarez.com,2021-03-25 00:00:00,1,129.96,129.96,1,0,1,0,0,1
+52,Stephanie Peterson,markmedina@wise.org,2023-02-06 00:00:00,2,223.02999999999997,111.51499999999999,0,0,0,0,0,1
+53,Aaron Ramirez,kimberly78@klein.biz,2020-10-31 00:00:00,0,0.0,0.0,4,3,1,0,1,1
+54,Kaitlin Mullins,jonesdonna@dickerson.com,2024-04-20 00:00:00,3,835.9300000000001,278.6433333333334,2,2,0,0,1,1
+55,Robert Williams,jeffrey13@vasquez-miller.com,2024-01-15 00:00:00,1,295.96,295.96,2,2,0,0,0,1
+56,Troy Jones DDS,terrykatherine@yahoo.com,2023-12-02 00:00:00,2,1408.96,704.48,1,1,0,0,0,1
+57,John Roberts,dicksonrobert@craig.com,2025-05-13 00:00:00,3,469.71000000000004,156.57000000000002,0,0,0,0,0,1
+58,Michael Schmidt,hilljanice@gmail.com,2023-04-28 00:00:00,1,228.6,228.6,1,0,1,0,0,1
+59,Bianca Miller,fieldstracy@yahoo.com,2024-10-19 00:00:00,2,285.39,142.695,0,0,0,0,0,1
+60,Dustin Fowler,dennisroberson@gmail.com,2021-12-12 00:00:00,1,626.56,626.56,4,2,1,1,2,1
+61,Robert Nunez,bradunderwood@gmail.com,2021-09-04 00:00:00,0,0.0,0.0,3,0,3,0,2,1
+62,Jared Lawrence,fclark@ramirez-wiley.com,2023-09-13 00:00:00,1,99.19,99.19,2,1,0,1,0,1
+63,Lisa Miles,ybrown@yahoo.com,2021-04-09 00:00:00,2,1883.08,941.54,2,1,1,0,0,1
+64,Jacob Garcia,thomasmerritt@gmail.com,2024-11-24 00:00:00,1,325.08,325.08,1,0,0,1,0,1
+65,Ryan Bennett,acombs@gmail.com,2021-07-27 00:00:00,2,522.0,261.0,1,1,0,0,0,1
+66,Mark Brown,andrew95@gmail.com,2024-04-23 00:00:00,3,1957.98,652.66,0,0,0,0,0,1
+67,Stacy House,stricklandmary@steele.org,2025-04-14 00:00:00,1,1039.3500000000001,1039.3500000000001,1,1,0,0,0,1
+68,Justin Hall,kmiller@yahoo.com,2024-04-28 00:00:00,4,1615.69,403.9225,0,0,0,0,0,1
+69,Heather Lucas,chapmanamanda@gmail.com,2024-10-16 00:00:00,2,1271.48,635.74,3,2,0,1,1,1
+70,Crystal Franklin,howardrichard@shields.com,2023-04-10 00:00:00,2,708.96,354.48,1,0,0,1,0,1
+71,Cody Snyder,gregoryheather@carney.info,2022-05-15 00:00:00,2,213.68,106.84,3,0,1,2,1,1
+72,Ashley Johnson,jessicaroberts@gmail.com,2021-05-13 00:00:00,1,11.74,11.74,3,3,0,0,1,1
+73,Ian Carpenter,anthony94@bray-osborne.com,2024-11-08 00:00:00,2,1142.67,571.335,1,0,0,1,1,1
+74,Daniel Crawford,paul29@gmail.com,2025-03-03 00:00:00,3,1909.2399999999998,636.4133333333333,0,0,0,0,0,1
+75,Angela Rosario,tonya13@yahoo.com,2024-05-10 00:00:00,2,715.02,357.51,1,0,1,0,1,1
+76,Thomas Cruz,amanda47@clay-stevens.com,2024-07-07 00:00:00,3,1597.66,532.5533333333334,0,0,0,0,0,1
+77,Mr. Richard Huffman,howellmelinda@yahoo.com,2023-09-04 00:00:00,1,139.81,139.81,1,1,0,0,0,1
+78,Leslie Clayton,xcurry@white.com,2020-10-21 00:00:00,2,635.8900000000001,317.94500000000005,0,0,0,0,0,1
+79,Sheila Dillon,jeffrey34@gmail.com,2025-04-18 00:00:00,0,0.0,0.0,2,2,0,0,1,1
+80,Alisha Bell,andersonsusan@acosta-cervantes.info,2022-05-31 00:00:00,2,431.16,215.58,2,0,0,2,1,1
+81,Kenneth Delacruz,gschultz@hotmail.com,2024-08-25 00:00:00,2,922.2800000000001,461.14000000000004,1,0,1,0,0,1
+82,Anthony Harper,amandafarley@gmail.com,2024-05-09 00:00:00,1,442.2,442.2,1,1,0,0,1,1
+83,Ronald Murillo,xyoder@hotmail.com,2024-08-10 00:00:00,1,525.68,525.68,1,1,0,0,0,1
+84,Holly Edwards,julie08@perez.net,2023-11-17 00:00:00,1,247.03,247.03,1,0,0,1,1,1
+85,Stephanie Knapp,lelliott@gmail.com,2021-09-23 00:00:00,0,0.0,0.0,2,2,0,0,0,1
+86,Joseph Humphrey DDS,ebarber@gmail.com,2024-05-14 00:00:00,2,1019.6399999999999,509.81999999999994,0,0,0,0,0,1
+87,Michelle Livingston,fmullen@gmail.com,2023-04-04 00:00:00,1,441.48,441.48,1,0,0,1,0,1
+88,William Robinson,mmcpherson@hotmail.com,2022-02-01 00:00:00,2,1274.3600000000001,637.1800000000001,2,0,2,0,1,1
+89,Eric Beltran,hoovergerald@yahoo.com,2024-08-24 00:00:00,2,1661.3300000000002,830.6650000000001,1,1,0,0,0,1
+90,Sarah Rodriguez,matthewpatton@moore.com,2025-04-04 00:00:00,1,275.15999999999997,275.15999999999997,1,0,1,0,0,1
+91,Tracey Reeves,jterrell@hernandez-solis.biz,2024-01-30 00:00:00,4,1960.9099999999999,490.22749999999996,1,0,0,1,1,1
+92,Luis Martinez,perkinsfrederick@hotmail.com,2024-08-28 00:00:00,3,747.76,249.25333333333333,0,0,0,0,0,1
+93,Antonio Benson,jcoleman@hotmail.com,2025-02-08 00:00:00,1,625.31,625.31,1,0,1,0,0,1
+94,Danielle Johnson,bjackson@yahoo.com,2023-04-01 00:00:00,1,681.12,681.12,3,1,1,1,2,1
+95,Ashley Drake,vsmith@hotmail.com,2021-03-12 00:00:00,2,1587.7199999999998,793.8599999999999,1,0,1,0,0,1
+96,Christopher Delgado,warrenrebecca@mueller-torres.com,2020-11-04 00:00:00,2,1391.6200000000001,695.8100000000001,2,1,0,1,0,1
+97,Sheri Doyle,walkeranna@gmail.com,2023-03-14 00:00:00,0,0.0,0.0,3,0,1,2,1,1
+98,Dr. Wendy Gray,opatterson@sanchez.org,2022-11-10 00:00:00,2,1442.08,721.04,0,0,0,0,0,1
+99,Sharon Obrien,montgomerysusan@brown.com,2023-12-27 00:00:00,0,0.0,0.0,3,1,1,1,1,1
+100,David Dickerson,rojasjonathan@mercer.net,2023-05-31 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+101,Lisa Smith,stacy50@yahoo.com,2022-12-15 00:00:00,1,223.4,223.4,1,0,0,1,1,1
+102,Rachel Graham,bondjessica@hotmail.com,2024-08-11 00:00:00,1,83.71,83.71,2,1,1,0,0,1
+103,Mark Smith,mary68@beck-aguilar.net,2023-03-10 00:00:00,2,396.39,198.195,0,0,0,0,0,1
+104,Christopher Hines,johnathanhall@gmail.com,2021-01-14 00:00:00,1,363.65999999999997,363.65999999999997,2,1,0,1,1,1
+105,Kathleen Harrington,fitzgeraldsamuel@grant.com,2021-05-08 00:00:00,2,916.37,458.185,1,1,0,0,1,1
+106,Jenna Pittman,holmesdaniel@webb-medina.com,2023-04-03 00:00:00,0,0.0,0.0,2,0,2,0,1,1
+107,Robert Bennett,martinricardo@harrington.com,2021-10-07 00:00:00,4,3193.24,798.31,2,1,1,0,1,1
+108,Alexandra Braun,mitchellanthony@reed.com,2024-04-30 00:00:00,2,634.8000000000001,317.40000000000003,0,0,0,0,0,1
+109,Angela Miller,carly52@adams.info,2023-06-01 00:00:00,1,642.9000000000001,642.9000000000001,1,0,1,0,1,1
+110,Veronica Smith,dweber@howell.com,2021-01-24 00:00:00,1,190.67999999999998,190.67999999999998,2,1,1,0,0,1
+111,Aaron Davis,deleonmark@reyes-johnson.org,2021-10-24 00:00:00,2,1384.92,692.46,0,0,0,0,0,1
+112,David Walker,apriltorres@baldwin.com,2024-01-26 00:00:00,3,1374.18,458.06,2,1,1,0,0,1
+113,Taylor Martinez,jared22@fuentes-spence.biz,2025-04-28 00:00:00,2,1207.3899999999999,603.6949999999999,2,1,1,0,1,1
+114,Rodney Williams,paynebrandon@pope.com,2024-06-19 00:00:00,1,1149.88,1149.88,2,0,1,1,0,1
+115,Willie Carr,zanderson@dunn-aguilar.com,2022-10-14 00:00:00,1,285.96,285.96,2,1,1,0,1,1
+116,Ryan Neal,vroy@hotmail.com,2025-01-16 00:00:00,1,1512.64,1512.64,1,0,0,1,0,1
+117,Victoria Gibbs,camacholisa@yahoo.com,2023-12-01 00:00:00,3,1214.73,404.91,0,0,0,0,0,1
+118,Jose Scott,catherine68@hotmail.com,2024-11-05 00:00:00,2,1948.98,974.49,1,1,0,0,0,1
+119,Mark Hamilton,prattsuzanne@hotmail.com,2023-11-09 00:00:00,1,1792.84,1792.84,1,0,0,1,0,1
+120,David Miller,agarcia@wyatt-garcia.com,2024-09-15 00:00:00,2,573.8199999999999,286.90999999999997,1,0,0,1,1,1
+121,Mary Mccarty,deannagilbert@lambert-vega.net,2021-02-16 00:00:00,1,520.94,520.94,1,0,0,1,0,1
+122,Richard David,crystaljones@gmail.com,2022-05-28 00:00:00,0,0.0,0.0,3,1,0,2,1,1
+123,Richard Rodriguez,ryan89@george-thomas.com,2023-06-06 00:00:00,1,872.29,872.29,1,0,1,0,0,1
+124,Mr. Michael Thompson,psmith@yahoo.com,2020-09-27 00:00:00,2,1448.96,724.48,4,2,1,1,0,1
+125,Kelli Stewart,ayersrachel@gmail.com,2022-05-24 00:00:00,2,166.62,83.31,1,0,0,1,0,1
+126,Kevin Miller,lmadden@schmitt.net,2022-08-23 00:00:00,2,1064.62,532.31,0,0,0,0,0,1
+127,Joseph Sheppard,pattersonhaley@leon.biz,2023-06-12 00:00:00,1,76.8,76.8,2,1,1,0,0,1
+128,Lisa Serrano DVM,bbrown@banks-clark.com,2024-08-08 00:00:00,2,803.49,401.745,0,0,0,0,0,1
+129,Gregory Wilson,beverlymckay@french.com,2022-08-08 00:00:00,2,638.7700000000001,319.38500000000005,1,0,0,1,1,1
+130,Shannon Fitzpatrick,justin68@hotmail.com,2023-03-26 00:00:00,1,21.92,21.92,3,1,1,1,0,1
+131,Robert Foster,michael01@yahoo.com,2022-07-10 00:00:00,1,56.96,56.96,2,1,1,0,0,1
+132,Bradley Brown,sarafigueroa@gmail.com,2024-07-09 00:00:00,3,2226.78,742.2600000000001,0,0,0,0,0,1
+133,Angela Stanley,cfisher@lee.com,2021-05-27 00:00:00,1,1503.4699999999998,1503.4699999999998,2,1,1,0,2,1
+134,Kent Crane,stevenboyd@casey.com,2022-10-13 00:00:00,2,820.53,410.265,2,2,0,0,2,1
+135,George Shields,millerpaul@estrada.com,2022-06-24 00:00:00,1,33.36,33.36,2,1,1,0,1,1
+136,Shane Patterson,berrybarry@oneill.com,2020-06-14 00:00:00,1,1713.96,1713.96,2,2,0,0,2,1
+137,Diana Good,castanedanicholas@perez.com,2022-02-15 00:00:00,2,1589.8,794.9,1,0,1,0,0,1
+138,Erik Garcia,julie15@hotmail.com,2025-04-25 00:00:00,1,720.99,720.99,2,0,1,1,0,1
+139,Samuel Potter,terri10@hotmail.com,2022-09-01 00:00:00,1,440.88,440.88,3,1,1,1,1,1
+140,Jennifer Taylor,margaret22@gmail.com,2022-10-12 00:00:00,4,2750.97,687.7425,1,1,0,0,0,1
+141,Barbara Ortega,derrick79@hughes.net,2025-02-21 00:00:00,2,715.76,357.88,4,2,0,2,1,1
+142,Cynthia Price,williamsjacob@gmail.com,2023-09-24 00:00:00,1,870.52,870.52,1,0,1,0,1,1
+143,Scott Jacobs,mariajimenez@nash.com,2022-01-12 00:00:00,1,118.04,118.04,1,1,0,0,1,1
+144,Christina Davidson,faulknercynthia@yahoo.com,2023-03-30 00:00:00,1,414.0,414.0,1,0,1,0,0,1
+145,Michael Curtis,bowmanphilip@hotmail.com,2021-05-20 00:00:00,2,1047.15,523.575,1,0,1,0,0,1
+146,April Berger,pabbott@yahoo.com,2021-07-02 00:00:00,3,1805.7,601.9,0,0,0,0,0,1
+147,Crystal Bowman,marymiller@simpson-miller.com,2023-10-10 00:00:00,2,1438.67,719.335,2,1,0,1,1,1
+148,Tiffany Daniels,jamesfreeman@gmail.com,2022-11-20 00:00:00,2,2015.0,1007.5,1,0,0,1,0,1
+149,Jeff Ramirez,ellisjames@hotmail.com,2021-02-26 00:00:00,1,21.58,21.58,2,1,1,0,0,1
+150,Kelsey Strickland,jenna19@hotmail.com,2023-11-26 00:00:00,1,589.16,589.16,1,1,0,0,0,1
+151,Thomas Carter,hailey14@gmail.com,2024-03-21 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+152,Colleen Sullivan,sarahcarter@dennis.com,2021-11-18 00:00:00,0,0.0,0.0,2,2,0,0,0,1
+153,Michael Carter,samuel49@barr.com,2022-08-23 00:00:00,2,2332.72,1166.36,1,0,1,0,1,1
+154,Rodney Watts,courtney96@yahoo.com,2021-07-11 00:00:00,2,675.51,337.755,2,0,0,2,1,1
+155,Matthew Ramos,kayla05@baird.biz,2023-09-12 00:00:00,3,894.0799999999999,298.02666666666664,2,0,1,1,0,1
+156,William Strong,wknox@weaver.info,2021-03-26 00:00:00,4,2453.3599999999997,613.3399999999999,0,0,0,0,0,1
+157,Philip Hale,emilymurphy@hotmail.com,2023-11-05 00:00:00,1,1500.8,1500.8,2,0,2,0,1,1
+158,Billy Carlson,dwood@wilson.biz,2024-10-31 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+159,Miguel Morris,zjohnson@navarro-estrada.com,2024-08-30 00:00:00,3,2099.6,699.8666666666667,1,1,0,0,0,1
+160,Yesenia Ray,lhall@hotmail.com,2023-03-04 00:00:00,0,0.0,0.0,4,3,0,1,0,1
+161,Alex Wall,qschmidt@barton.com,2025-03-28 00:00:00,5,2542.7400000000002,508.54800000000006,0,0,0,0,0,1
+162,Leslie Munoz,john97@randolph.info,2022-08-15 00:00:00,2,1656.86,828.43,3,1,2,0,0,1
+163,Megan Smith,edwardselizabeth@morales.net,2022-02-03 00:00:00,2,510.00999999999993,255.00499999999997,1,1,0,0,1,1
+164,Jonathan Lewis,briancross@phillips.com,2024-10-01 00:00:00,2,994.4399999999999,497.21999999999997,2,1,0,1,1,1
+165,Brett Matthews,natalie90@schroeder-baker.org,2022-11-23 00:00:00,2,1686.12,843.06,0,0,0,0,0,1
+166,Teresa Houston,karenjohnson@gmail.com,2022-11-04 00:00:00,3,1019.01,339.67,1,0,0,1,1,1
+167,Maria Griffith,wfarmer@gmail.com,2022-11-25 00:00:00,2,1339.8200000000002,669.9100000000001,2,0,1,1,1,1
+168,Connor Shelton,mfowler@hotmail.com,2022-09-06 00:00:00,3,544.45,181.48333333333335,1,0,0,1,0,1
+169,Deborah Hernandez,hthornton@steele.com,2024-11-17 00:00:00,2,1281.1999999999998,640.5999999999999,1,0,0,1,1,1
+170,Laura Paul,tara50@scott.com,2024-01-04 00:00:00,3,1776.42,592.14,1,0,1,0,0,1
+171,Amanda Gonzalez,qburke@hotmail.com,2022-02-24 00:00:00,1,1014.56,1014.56,1,1,0,0,1,1
+172,Julie Dillon,stephaniefox@yahoo.com,2021-01-23 00:00:00,1,320.58,320.58,1,0,1,0,0,1
+173,Stephen White,rebecca46@gmail.com,2022-07-03 00:00:00,2,974.1199999999999,487.05999999999995,0,0,0,0,0,1
+174,Kevin Jones,fgarcia@gmail.com,2024-06-03 00:00:00,2,189.68,94.84,1,1,0,0,0,1
+175,Travis Reilly,rubenjones@powell.net,2021-10-07 00:00:00,3,941.46,313.82,1,0,1,0,0,1
+176,Kathryn Smith,lestercharles@gutierrez.com,2022-09-13 00:00:00,3,2447.82,815.94,0,0,0,0,0,1
+177,Robert Miller,sergiomcdaniel@porter.com,2023-12-08 00:00:00,0,0.0,0.0,2,1,1,0,2,1
+178,Robert Dominguez,rogersjeffrey@hotmail.com,2022-03-27 00:00:00,2,1229.3799999999999,614.6899999999999,0,0,0,0,0,1
+179,Katherine Andersen,stephaniepowers@yahoo.com,2024-07-12 00:00:00,0,0.0,0.0,3,0,2,1,3,1
+180,Karen Holland,hornemark@watson.info,2022-06-20 00:00:00,2,407.66,203.83,0,0,0,0,0,1
+181,Lori Perry,clarkrobert@yahoo.com,2025-04-14 00:00:00,1,213.76,213.76,3,0,1,2,2,1
+182,Denise Serrano,zparker@williams-hayes.info,2023-10-09 00:00:00,1,747.9,747.9,1,1,0,0,0,1
+183,Alison Wall,autumn72@santiago.com,2024-10-04 00:00:00,2,505.27000000000004,252.63500000000002,1,0,0,1,0,1
+184,Amy Aguirre,todd37@yahoo.com,2022-09-16 00:00:00,1,544.9,544.9,1,0,1,0,0,1
+185,Zachary Wilson,joanphillips@yahoo.com,2023-10-01 00:00:00,1,340.6,340.6,2,1,0,1,0,1
+186,Jennifer Smith,thernandez@gmail.com,2020-07-18 00:00:00,3,3162.9,1054.3,0,0,0,0,0,1
+187,Cynthia House,stephaniegraham@gonzalez.biz,2021-01-21 00:00:00,1,221.54999999999998,221.54999999999998,2,1,1,0,0,1
+188,Emily Scott,eddie73@yahoo.com,2021-11-03 00:00:00,1,436.05,436.05,2,1,0,1,1,1
+189,Jamie Jimenez,jonathangordon@carpenter-olson.com,2024-08-16 00:00:00,3,1574.91,524.97,2,0,2,0,0,1
+190,Bryan Mathis PhD,kimberlyaguilar@gmail.com,2025-02-21 00:00:00,0,0.0,0.0,2,1,1,0,0,1
+191,Abigail Alvarez,dnichols@romero.org,2023-05-29 00:00:00,3,1385.4099999999999,461.8033333333333,1,1,0,0,0,1
+192,Mrs. Patricia Scott,cranejustin@wright-smith.com,2025-05-08 00:00:00,0,0.0,0.0,2,1,1,0,0,1
+193,Jamie Abbott,rhondamiller@obrien.biz,2021-04-21 00:00:00,2,421.41999999999996,210.70999999999998,2,0,1,1,2,1
+194,Shelby Ballard,vazquezkatrina@hotmail.com,2022-03-07 00:00:00,1,798.6999999999999,798.6999999999999,1,0,0,1,0,1
+195,Nicholas Huang,lori74@hays.net,2021-12-01 00:00:00,3,574.4300000000001,191.4766666666667,2,2,0,0,1,1
+196,Eric Olson,lisa49@hotmail.com,2021-10-31 00:00:00,2,751.1099999999999,375.55499999999995,2,1,1,0,0,1
+197,Kristi Rivera,kmartin@rich.com,2024-02-23 00:00:00,1,509.0,509.0,3,0,0,3,1,1
+198,Chad Bailey,wmills@gmail.com,2023-11-16 00:00:00,2,1006.02,503.01,1,0,1,0,0,1
+199,Loretta Andrews,harringtonbrent@hotmail.com,2022-07-11 00:00:00,2,460.22999999999996,230.11499999999998,0,0,0,0,0,1
+200,Travis Smith,bartonmatthew@hotmail.com,2024-11-30 00:00:00,0,0.0,0.0,2,0,2,0,2,1
+201,Joshua Meyers,jasonrodriguez@hotmail.com,2024-10-12 00:00:00,3,1775.9799999999998,591.9933333333332,2,0,1,1,0,1
+202,Emily Robinson,ralph94@poole.com,2024-06-20 00:00:00,3,869.26,289.75333333333333,3,2,1,0,1,1
+203,Robert James,eric16@hall.com,2023-05-23 00:00:00,0,0.0,0.0,2,0,0,2,0,1
+204,Sheila Green,cjackson@yahoo.com,2022-04-09 00:00:00,2,254.69,127.345,1,1,0,0,0,1
+205,Steven Norton,nathan02@bryant.info,2025-04-13 00:00:00,1,72.84,72.84,1,0,1,0,0,1
+206,David Davis,scampbell@patel-anderson.org,2024-04-14 00:00:00,4,1621.46,405.365,1,0,1,0,0,1
+207,Tommy Thomas,philipbond@hotmail.com,2024-06-24 00:00:00,1,388.34999999999997,388.34999999999997,2,1,1,0,1,1
+208,Aaron Howard,bradley38@gmail.com,2024-10-27 00:00:00,3,1957.8,652.6,0,0,0,0,0,1
+209,Karen Brown,alex91@bailey-brown.com,2020-11-13 00:00:00,2,278.0,139.0,1,1,0,0,0,1
+210,Alejandro Jarvis,amanda01@carter.com,2022-04-02 00:00:00,1,56.54,56.54,2,0,1,1,1,1
+211,Jesse Garcia,ryan52@sims.com,2023-04-26 00:00:00,1,642.3299999999999,642.3299999999999,1,0,1,0,1,1
+212,Maria Thomas,tosborne@gmail.com,2024-09-14 00:00:00,1,72.72,72.72,3,1,0,2,2,1
+213,Joseph Perez,ynguyen@yahoo.com,2023-12-29 00:00:00,1,664.2,664.2,1,0,1,0,1,1
+214,Glenn Jones,lisa07@hotmail.com,2024-04-25 00:00:00,1,194.85,194.85,2,1,0,1,1,1
+215,Andrew Romero,lspencer@mathews-wilson.org,2021-02-22 00:00:00,2,204.62,102.31,1,1,0,0,0,1
+216,Kevin Wyatt,rebecca13@hotmail.com,2022-06-26 00:00:00,2,1819.74,909.87,2,2,0,0,2,1
+217,Thomas Anderson,patricksmith@yahoo.com,2021-05-14 00:00:00,3,2901.2,967.0666666666666,1,1,0,0,0,1
+218,Daniel Coleman,adam09@gmail.com,2021-03-30 00:00:00,1,534.5,534.5,2,0,2,0,0,1
+219,Amy Garcia,jillianwallace@yahoo.com,2021-09-15 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+220,Charles Rodriguez,amber43@crawford.com,2021-04-04 00:00:00,1,440.99,440.99,1,0,1,0,1,1
+221,Caleb Edwards,annsanchez@meadows.com,2023-01-02 00:00:00,2,735.72,367.86,0,0,0,0,0,1
+222,Jeremy Blair,yvonne36@harrison-cannon.com,2023-11-09 00:00:00,3,1484.6799999999998,494.89333333333326,2,0,0,2,1,1
+223,Keith Williams,stevensjamie@hotmail.com,2020-11-13 00:00:00,3,1293.33,431.10999999999996,1,1,0,0,0,1
+224,Robin Wilson,donald99@yahoo.com,2023-08-11 00:00:00,1,295.56,295.56,1,0,0,1,1,1
+225,Timothy Johnson,caroline50@gmail.com,2024-05-31 00:00:00,0,0.0,0.0,2,0,2,0,2,1
+226,David Gonzalez,cassandrawalton@gmail.com,2024-01-06 00:00:00,1,420.0,420.0,1,0,1,0,0,1
+227,Jessica Jones,ogolden@green.com,2020-10-29 00:00:00,2,702.64,351.32,1,1,0,0,0,1
+228,Richard Conner,matthew97@cannon.org,2024-05-24 00:00:00,2,443.46000000000004,221.73000000000002,1,0,1,0,0,1
+229,Heather Brooks,swang@hotmail.com,2024-09-02 00:00:00,2,1524.3,762.15,0,0,0,0,0,1
+230,Sarah Gallegos,james28@yahoo.com,2023-10-30 00:00:00,1,185.6,185.6,2,1,0,1,0,1
+231,Tara Villa,xcallahan@hotmail.com,2023-01-23 00:00:00,1,268.4,268.4,3,0,1,2,0,1
+232,Scott Thompson,fischerevan@gmail.com,2022-03-23 00:00:00,1,1402.95,1402.95,2,0,2,0,1,1
+233,Patrick Garcia,boydmartin@gmail.com,2022-03-30 00:00:00,1,17.63,17.63,2,0,0,2,0,1
+234,Kristin Wilson,sharonmontgomery@thompson.info,2021-12-02 00:00:00,4,2411.62,602.905,0,0,0,0,0,1
+235,Martin Jenkins,joshuathompson@lopez.net,2023-07-28 00:00:00,3,1556.4199999999998,518.8066666666666,0,0,0,0,0,1
+236,Mr. Kenneth Schmidt,edgarwilcox@green.com,2023-07-28 00:00:00,2,663.5799999999999,331.78999999999996,0,0,0,0,0,1
+237,Timothy Lee,jonathan51@yahoo.com,2022-10-20 00:00:00,2,1305.54,652.77,2,0,0,2,2,1
+238,Laura Miller,hallharold@young-vaughn.com,2023-01-20 00:00:00,2,188.76,94.38,1,0,0,1,0,1
+239,Dustin Clark,jeremy64@santos.com,2023-02-01 00:00:00,1,1001.4200000000001,1001.4200000000001,1,0,0,1,1,1
+240,Kelsey Wilson,tammy55@thomas.com,2021-10-21 00:00:00,1,443.16,443.16,2,0,1,1,1,1
+241,Marcus Williams,oalvarez@hotmail.com,2024-05-05 00:00:00,4,1681.0,420.25,0,0,0,0,0,1
+242,Joshua Roth,williamskim@hotmail.com,2023-10-18 00:00:00,1,311.87,311.87,2,0,1,1,2,1
+243,Dr. Tamara Collins,elizabethpitts@gmail.com,2021-05-16 00:00:00,4,1165.8600000000001,291.46500000000003,0,0,0,0,0,1
+244,Jose Thompson,mbrown@mitchell.com,2020-07-09 00:00:00,0,0.0,0.0,4,0,3,1,1,1
+245,Jose Wright,maynardchristopher@gonzales-price.info,2021-05-19 00:00:00,1,1086.47,1086.47,2,1,0,1,0,1
+246,Johnny Petersen,christine97@villarreal.org,2023-10-23 00:00:00,4,2418.64,604.66,2,0,0,2,1,1
+247,David Martin,jason66@cunningham.com,2022-04-30 00:00:00,0,0.0,0.0,3,1,1,1,1,1
+248,Kathryn Underwood,henglish@klein.com,2021-09-21 00:00:00,0,0.0,0.0,2,0,2,0,1,1
+249,Jeffrey Lambert,kristenwebb@king.com,2023-05-19 00:00:00,2,1296.02,648.01,1,0,0,1,0,1
+250,Joseph Roberts,jennifer27@gmail.com,2025-03-20 00:00:00,2,1105.0,552.5,1,0,0,1,1,1
+251,John Mejia,jessicalopez@gmail.com,2023-07-19 00:00:00,1,80.82,80.82,2,0,0,2,0,1
+252,Kristen Harris,martinlatasha@rodriguez.com,2020-12-28 00:00:00,2,584.8,292.4,0,0,0,0,0,1
+253,Martin English,stacyduncan@hotmail.com,2024-07-19 00:00:00,3,1051.08,350.35999999999996,1,0,0,1,0,1
+254,Robert Mason,brandongardner@ryan-lee.com,2021-07-23 00:00:00,3,1789.2300000000002,596.4100000000001,1,0,0,1,0,1
+255,Fernando Stanley,charles75@hotmail.com,2022-11-20 00:00:00,2,706.1800000000001,353.09000000000003,1,0,0,1,1,1
+256,Michelle Gomez,kyliemorales@ramirez.com,2022-11-19 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+257,Peter Garrett,lee82@gmail.com,2024-03-15 00:00:00,2,814.85,407.425,3,0,1,2,2,1
+258,Aaron Hamilton,danielle16@rodriguez.com,2023-01-23 00:00:00,0,0.0,0.0,2,0,1,1,2,1
+259,Michael Parker,cody27@blanchard.com,2020-08-04 00:00:00,2,590.1899999999999,295.09499999999997,1,0,0,1,0,1
+260,Alexander Lamb,robinsonjoshua@gmail.com,2023-04-24 00:00:00,1,693.77,693.77,2,2,0,0,0,1
+261,Kristi Kelly,john00@olsen.info,2025-01-05 00:00:00,1,475.2,475.2,1,1,0,0,0,1
+262,Richard Young,shanecarpenter@gmail.com,2022-02-04 00:00:00,1,748.03,748.03,1,1,0,0,0,1
+263,Adam Jacobs,hjohnson@gmail.com,2023-07-30 00:00:00,0,0.0,0.0,4,0,2,2,3,1
+264,Wendy Mcclure,jennifer51@hotmail.com,2021-01-08 00:00:00,3,2370.46,790.1533333333333,2,0,1,1,0,1
+265,Derek Brooks,rick28@gmail.com,2020-09-25 00:00:00,2,981.6199999999999,490.80999999999995,1,0,1,0,0,1
+266,James Castillo,kellysteven@martinez-webb.com,2022-06-25 00:00:00,0,0.0,0.0,2,2,0,0,2,1
+267,Michelle Friedman,wrightlisa@cohen.org,2024-01-22 00:00:00,3,1278.86,426.28666666666663,1,0,0,1,1,1
+268,Mrs. Theresa Marquez,dmorton@gmail.com,2020-06-09 00:00:00,1,619.5,619.5,1,0,1,0,0,1
+269,Joseph Dean,flowersteresa@yahoo.com,2024-02-11 00:00:00,1,148.08,148.08,1,1,0,0,1,1
+270,Nathan Wells,turneranna@yahoo.com,2025-03-14 00:00:00,3,920.08,306.6933333333333,2,1,1,0,0,1
+271,Jeffrey Pope,sarah96@gmail.com,2021-01-24 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+272,Jonathan Mcdonald,bradley89@little.com,2024-01-28 00:00:00,0,0.0,0.0,2,1,1,0,0,1
+273,Gregory Wilson,jessica86@hotmail.com,2024-02-17 00:00:00,3,1327.55,442.51666666666665,4,3,0,1,1,1
+274,James Terry,qknight@yahoo.com,2024-10-11 00:00:00,1,1358.7,1358.7,1,1,0,0,0,1
+275,Travis Brown,fosteredward@yahoo.com,2024-08-14 00:00:00,1,20.55,20.55,1,0,1,0,1,1
+276,Drew Hernandez,chadcollins@bell.net,2021-05-12 00:00:00,1,33.65,33.65,1,1,0,0,0,1
+277,Diane Martin,potterrebecca@hicks-willis.com,2023-09-21 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+278,Kari Aguilar,tinabradley@moore.biz,2020-10-07 00:00:00,1,512.26,512.26,1,0,0,1,1,1
+279,Michael Brooks,icarter@gmail.com,2022-12-15 00:00:00,1,1257.44,1257.44,2,1,0,1,0,1
+280,Susan Landry,bbrown@yahoo.com,2024-06-28 00:00:00,1,427.18,427.18,1,0,0,1,0,1
+281,Monique Simon,ukelly@gmail.com,2022-01-15 00:00:00,1,1236.8999999999999,1236.8999999999999,1,1,0,0,0,1
+282,Pamela Smith,hfrancis@fuentes-phillips.com,2023-09-11 00:00:00,1,264.05,264.05,1,1,0,0,0,1
+283,Laura Cox,richarddiaz@robertson.biz,2023-10-04 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+284,Oscar Miller,ashleyalvarado@reyes-riley.com,2020-09-09 00:00:00,2,2001.72,1000.86,0,0,0,0,0,1
+285,Daniel Arroyo,hlewis@yahoo.com,2022-07-06 00:00:00,2,2972.2,1486.1,3,1,1,1,0,1
+286,Jennifer Erickson,stephanie32@wolfe.com,2020-06-18 00:00:00,4,674.08,168.52,1,0,0,1,1,1
+287,Nancy Woods,jacksonlaurie@hamilton-rhodes.com,2021-04-21 00:00:00,1,115.00999999999999,115.00999999999999,1,0,0,1,1,1
+288,Jordan Hopkins,sandramiles@berg-andrews.biz,2022-07-01 00:00:00,3,1602.9,534.3000000000001,0,0,0,0,0,1
+289,Jeremy Reyes,martinezrobert@jordan.org,2023-11-20 00:00:00,2,1315.35,657.675,1,0,1,0,0,1
+290,Nathaniel Gardner,mcdonaldangela@gmail.com,2022-07-05 00:00:00,1,822.64,822.64,2,0,2,0,0,1
+291,Kent Stewart,hbrown@rivers-gray.com,2022-12-08 00:00:00,2,318.71999999999997,159.35999999999999,1,0,1,0,1,1
+292,Kristina Lara,christopherduffy@gmail.com,2023-12-13 00:00:00,0,0.0,0.0,4,3,0,1,3,1
+293,Richard Lara,gmaynard@hotmail.com,2022-05-09 00:00:00,1,213.71999999999997,213.71999999999997,1,1,0,0,1,1
+294,Erica Allen,elizabethferguson@hotmail.com,2022-06-23 00:00:00,2,820.4,410.2,1,1,0,0,0,1
+295,Kendra Hudson,gail98@lee-fitzpatrick.com,2021-03-23 00:00:00,2,1591.5,795.75,3,2,1,0,0,1
+296,Kenneth Powers,matthew92@gmail.com,2024-12-12 00:00:00,2,936.96,468.48,1,0,1,0,0,1
+297,Abigail Burton,rmiller@yahoo.com,2022-04-30 00:00:00,2,641.66,320.83,1,0,0,1,0,1
+298,Bill Briggs,zsmith@gmail.com,2020-10-04 00:00:00,3,2095.06,698.3533333333334,1,0,1,0,1,1
+299,Alisha Soto,doughertychristy@yahoo.com,2023-07-20 00:00:00,3,1764.2000000000003,588.0666666666667,0,0,0,0,0,1
+300,Taylor Colon,vanessapeters@vargas.com,2024-08-25 00:00:00,1,1029.76,1029.76,1,0,0,1,0,1
+301,Heather Miller,mileskeith@hotmail.com,2021-01-01 00:00:00,2,1096.6899999999998,548.3449999999999,0,0,0,0,0,1
+302,Logan Spencer,osimpson@butler-faulkner.net,2025-02-16 00:00:00,3,1859.62,619.8733333333333,3,0,2,1,0,1
+303,Sean Rodgers,meganshea@davis.com,2021-01-03 00:00:00,1,959.5,959.5,2,1,0,1,0,1
+304,Amanda Ramos,marshallpaul@yahoo.com,2025-05-10 00:00:00,3,957.24,319.08,1,0,1,0,0,1
+305,Jaclyn Byrd,susanbrown@kerr.org,2021-03-25 00:00:00,2,1893.44,946.72,0,0,0,0,0,1
+306,Seth Walker,lopezdanielle@gmail.com,2022-09-29 00:00:00,2,433.62,216.81,1,0,0,1,0,1
+307,Jonathan Miller,joshuahansen@hotmail.com,2025-02-05 00:00:00,0,0.0,0.0,3,2,1,0,1,1
+308,Geoffrey Velasquez,qjackson@gmail.com,2021-06-19 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+309,Kaitlyn Cook,brownbrittany@hotmail.com,2020-09-15 00:00:00,2,783.98,391.99,1,0,1,0,1,1
+310,April Manning,nguyenkelly@madden.biz,2023-01-08 00:00:00,2,328.55999999999995,164.27999999999997,0,0,0,0,0,1
+311,Caitlin Price,evanslacey@hotmail.com,2021-12-07 00:00:00,0,0.0,0.0,3,1,1,1,0,1
+312,Theresa Webb,adam88@gmail.com,2024-01-29 00:00:00,2,2112.5,1056.25,2,0,1,1,0,1
+313,Janet Ross,hbaker@yahoo.com,2020-08-20 00:00:00,1,598.35,598.35,4,1,2,1,1,1
+314,Phillip Ortiz,lauren40@salas-steele.com,2022-02-17 00:00:00,4,2416.68,604.17,0,0,0,0,0,1
+315,Jessica Peterson,obriennicole@lynch.com,2021-12-22 00:00:00,2,2092.4,1046.2,3,0,1,2,1,1
+316,Kristin Mann,lauren11@yahoo.com,2025-01-21 00:00:00,1,367.59999999999997,367.59999999999997,3,1,2,0,2,1
+317,Lisa Stephens,johnwaller@harris.com,2021-03-18 00:00:00,2,409.4,204.7,2,1,0,1,1,1
+318,Mr. Adrian Hill,jacobperez@hotmail.com,2020-06-09 00:00:00,3,1675.23,558.41,2,2,0,0,0,1
+319,Paige Parsons,kjohnson@ortiz.com,2020-11-10 00:00:00,3,2213.72,737.9066666666666,0,0,0,0,0,1
+320,Kevin Carr,laurasalazar@yahoo.com,2024-06-14 00:00:00,1,964.0799999999999,964.0799999999999,1,1,0,0,1,1
+321,Joshua Price,dana40@hotmail.com,2022-08-06 00:00:00,1,67.67999999999999,67.67999999999999,2,0,2,0,0,1
+322,Kelly Henderson,jonathan73@yahoo.com,2023-11-21 00:00:00,0,0.0,0.0,2,2,0,0,1,1
+323,Nicholas Reyes,tonilane@jacobs.com,2023-10-24 00:00:00,4,3910.62,977.655,1,1,0,0,0,1
+324,Mitchell Hobbs,christinabrown@gmail.com,2023-01-13 00:00:00,2,2166.96,1083.48,2,1,1,0,1,1
+325,Thomas Bates,james34@cochran.org,2020-11-13 00:00:00,0,0.0,0.0,2,2,0,0,0,1
+326,Ryan Banks,patriciamurray@byrd-lee.com,2025-01-26 00:00:00,2,1095.99,547.995,2,0,2,0,0,1
+327,John Smith,gentrymichael@yahoo.com,2021-08-29 00:00:00,1,33.93,33.93,3,1,0,2,1,1
+328,Victor Obrien,anthony92@gmail.com,2021-07-11 00:00:00,2,586.25,293.125,2,0,1,1,1,1
+329,Jill Parker,schultzdestiny@yahoo.com,2022-05-22 00:00:00,1,562.3,562.3,4,0,2,2,2,1
+330,Kenneth Smith,bholmes@scott.com,2024-05-03 00:00:00,1,288.27,288.27,1,0,1,0,0,1
+331,Anita Burns,druiz@smith.com,2024-08-13 00:00:00,2,225.46,112.73,1,0,0,1,0,1
+332,Helen Cook,jose42@hernandez.com,2020-09-09 00:00:00,3,909.91,303.30333333333334,0,0,0,0,0,1
+333,Travis Chavez,fieldsmary@hotmail.com,2025-04-23 00:00:00,1,557.96,557.96,3,1,0,2,1,1
+334,Angela Miller,ibrown@anderson.com,2025-02-08 00:00:00,2,1116.8600000000001,558.4300000000001,2,2,0,0,0,1
+335,Kathleen Keith,rgardner@bell.com,2021-02-10 00:00:00,1,582.4,582.4,3,0,2,1,1,1
+336,Aaron Gray,huertapamela@smith-wilson.net,2020-09-18 00:00:00,1,215.64,215.64,2,0,1,1,2,1
+337,Molly Hartman,rachelcunningham@cline.com,2021-11-01 00:00:00,1,539.22,539.22,2,0,1,1,0,1
+338,Sylvia Waters,florespaul@cole-white.com,2025-05-04 00:00:00,2,530.4200000000001,265.21000000000004,0,0,0,0,0,1
+339,Timothy Washington,amanda14@yahoo.com,2020-10-11 00:00:00,2,875.1300000000001,437.56500000000005,1,0,0,1,1,1
+340,Logan Beard,ymccormick@powell-kim.biz,2025-04-20 00:00:00,1,205.31,205.31,2,1,1,0,1,1
+341,Rebecca Johnson,james97@hotmail.com,2022-08-06 00:00:00,1,118.80000000000001,118.80000000000001,1,0,1,0,1,1
+342,Michelle Farmer,karimartinez@webster.net,2024-11-17 00:00:00,2,1105.45,552.725,1,1,0,0,1,1
+343,Kelly Garcia,traceytorres@benson.biz,2022-03-25 00:00:00,2,1004.64,502.32,4,2,2,0,1,1
+344,Angela Werner,bcampbell@nelson.com,2023-10-29 00:00:00,1,891.72,891.72,2,0,2,0,0,1
+345,Bruce Cook,kevinblake@yahoo.com,2024-10-09 00:00:00,1,378.8,378.8,1,0,0,1,0,1
+346,Michelle Ray,jjohnson@wood.biz,2022-04-20 00:00:00,1,120.0,120.0,1,1,0,0,0,1
+347,Theresa Johnson,elizabethmartin@gmail.com,2024-10-18 00:00:00,1,106.64,106.64,2,0,1,1,0,1
+348,Desiree Zamora,swilliams@yahoo.com,2024-07-09 00:00:00,3,530.44,176.81333333333336,1,1,0,0,0,1
+349,Sarah Jones,loriwalker@castillo.net,2023-09-27 00:00:00,2,467.16,233.58,0,0,0,0,0,1
+350,Christian Boyd,cody88@yahoo.com,2024-12-08 00:00:00,2,1389.4,694.7,1,1,0,0,0,1
+351,Dakota Blackburn,karen96@hotmail.com,2021-05-21 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+352,Robert Cantu,harrischristina@holmes.com,2022-12-23 00:00:00,1,326.28,326.28,1,1,0,0,0,1
+353,Andrew Collins,dannyhale@castillo.info,2023-03-06 00:00:00,0,0.0,0.0,4,0,1,3,0,1
+354,Christopher Powell,ecombs@miller.org,2024-02-10 00:00:00,3,1084.84,361.6133333333333,1,0,0,1,0,1
+355,Jessica Mosley,nicole55@gmail.com,2022-06-28 00:00:00,2,1150.88,575.44,0,0,0,0,0,1
+356,Omar Houston,stephanie87@johnston.com,2023-08-11 00:00:00,0,0.0,0.0,2,1,0,1,1,1
+357,Timothy Sharp,xatkinson@hotmail.com,2020-05-29 00:00:00,2,1108.45,554.225,2,0,1,1,2,1
+358,Tanner Mclean,mcconnellkatie@gmail.com,2023-11-04 00:00:00,1,29.76,29.76,1,1,0,0,0,1
+359,Mary Pierce,george97@hotmail.com,2024-12-03 00:00:00,1,47.949999999999996,47.949999999999996,1,0,0,1,0,1
+360,John Steele,jholmes@hotmail.com,2022-06-03 00:00:00,2,1003.9399999999999,501.96999999999997,1,0,0,1,1,1
+361,Lisa Green,markgordon@bowen-shaw.com,2022-10-14 00:00:00,2,455.55000000000007,227.77500000000003,0,0,0,0,0,1
+362,Cynthia Hester,younglisa@hotmail.com,2023-09-16 00:00:00,2,1015.29,507.645,2,0,1,1,2,1
+363,Heather Miller,robinstevens@yahoo.com,2022-01-10 00:00:00,2,989.6400000000001,494.82000000000005,3,1,1,1,0,1
+364,Devin Lyons,sean10@george.org,2024-04-27 00:00:00,1,239.37,239.37,3,1,0,2,1,1
+365,Justin Taylor,grantbryant@yahoo.com,2022-08-08 00:00:00,2,1408.79,704.395,0,0,0,0,0,1
+366,Janet Medina,whitecarol@gmail.com,2025-01-07 00:00:00,2,1613.1399999999999,806.5699999999999,1,0,0,1,0,1
+367,Deborah Rose,amandataylor@hotmail.com,2024-03-08 00:00:00,1,195.03000000000003,195.03000000000003,1,0,1,0,0,1
+368,Karen West,dwalker@gmail.com,2024-04-27 00:00:00,0,0.0,0.0,2,0,1,1,0,1
+369,Travis Chen,courtney59@armstrong.biz,2021-12-02 00:00:00,2,930.2,465.1,1,0,1,0,0,1
+370,Gary Short,patriciasmith@hotmail.com,2022-11-02 00:00:00,0,0.0,0.0,4,2,1,1,1,1
+371,Lisa Stone,lindseywhite@foster.info,2024-03-14 00:00:00,0,0.0,0.0,3,1,0,2,1,1
+372,Dr. Carlos Armstrong,xblake@watson.biz,2021-04-02 00:00:00,1,1289.34,1289.34,1,1,0,0,0,1
+373,Jennifer Floyd,zkim@gmail.com,2022-10-22 00:00:00,1,504.02,504.02,1,0,0,1,0,1
+374,Isaac Price,fishershawn@marshall-buchanan.com,2023-06-05 00:00:00,1,302.5,302.5,3,0,2,1,2,1
+375,Allen Cline,amyweeks@conner-bryant.net,2021-01-28 00:00:00,2,1795.54,897.77,1,1,0,0,1,1
+376,Sharon Henry,jonesjoseph@yahoo.com,2021-12-17 00:00:00,1,725.25,725.25,1,0,1,0,1,1
+377,Justin Stanley,denisesherman@gomez-clark.com,2022-12-19 00:00:00,0,0.0,0.0,3,1,0,2,1,1
+378,Laura Yang,marcusschultz@gray.com,2022-01-30 00:00:00,0,0.0,0.0,2,1,0,1,1,1
+379,Samantha Thompson,wileyalexander@gmail.com,2021-11-09 00:00:00,1,1656.3100000000002,1656.3100000000002,2,0,1,1,1,1
+380,Jessica Ortega,melissavega@hotmail.com,2021-05-07 00:00:00,1,1519.56,1519.56,1,0,1,0,1,1
+381,James Kim,jeffreyfoster@gmail.com,2020-10-09 00:00:00,1,607.68,607.68,1,0,0,1,0,1
+382,Sydney Martinez,hugheskevin@small.com,2025-02-21 00:00:00,0,0.0,0.0,3,1,1,1,2,1
+383,Marcus Vega,matthew24@yahoo.com,2022-01-09 00:00:00,1,51.48,51.48,1,0,0,1,1,1
+384,Dennis Davidson,josephchandler@hotmail.com,2021-03-23 00:00:00,1,1349.0,1349.0,3,0,2,1,0,1
+385,Teresa Montgomery,lindacohen@ortiz.com,2021-01-20 00:00:00,2,947.3299999999998,473.6649999999999,2,2,0,0,0,1
+386,Ann Carroll,ashleyolsen@yahoo.com,2025-02-06 00:00:00,1,1332.63,1332.63,2,1,0,1,1,1
+387,Rebecca Quinn,elizabeth21@parker.com,2020-05-25 00:00:00,1,1235.57,1235.57,1,0,0,1,0,1
+388,Mr. John Scott MD,yesenia64@price-robbins.biz,2020-09-27 00:00:00,2,2938.06,1469.03,1,0,1,0,1,1
+389,Mary Anderson,daniel34@hotmail.com,2024-02-20 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+390,Michele Erickson,ptorres@hotmail.com,2020-05-16 00:00:00,2,1862.93,931.465,2,2,0,0,1,1
+391,Lisa Wright,callahanleslie@barnes.net,2021-06-08 00:00:00,2,834.05,417.025,1,1,0,0,1,1
+392,Danny Garcia,scottrobert@gmail.com,2023-03-22 00:00:00,5,2669.19,533.838,0,0,0,0,0,1
+393,Jeffrey Thompson,ashleyfrey@yahoo.com,2021-05-13 00:00:00,3,2293.74,764.5799999999999,1,0,0,1,1,1
+394,Melissa Sawyer,johnflores@estrada-roberts.com,2021-05-07 00:00:00,2,364.91999999999996,182.45999999999998,2,1,0,1,1,1
+395,Alison Williams,michaelschmidt@gmail.com,2020-07-23 00:00:00,1,154.32,154.32,2,2,0,0,1,1
+396,Leslie Miller,kelleranne@yahoo.com,2023-08-03 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+397,Anthony Schultz,bennettjennifer@peters-barry.org,2023-09-05 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+398,Veronica Tate,duncansabrina@hotmail.com,2020-09-05 00:00:00,4,1435.85,358.9625,2,0,2,0,1,1
+399,Terry Carr,zhaynes@hotmail.com,2024-05-24 00:00:00,2,155.53,77.765,1,0,1,0,0,1
+400,Jordan Hickman,johncampbell@oneill-christensen.info,2021-10-05 00:00:00,1,376.77,376.77,2,1,0,1,1,1
+401,Christina Parker,kjames@wright.com,2021-10-18 00:00:00,0,0.0,0.0,2,0,2,0,1,1
+402,Angela Colon,jacobarnold@yahoo.com,2023-01-10 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+403,Michelle Knapp,alejandro21@calhoun.biz,2025-03-29 00:00:00,1,1479.7199999999998,1479.7199999999998,2,0,1,1,0,1
+404,Lisa Thompson,fdavis@koch-nelson.org,2020-09-29 00:00:00,0,0.0,0.0,3,1,0,2,0,1
+405,Travis Combs,matthew46@snyder.biz,2021-11-12 00:00:00,1,855.68,855.68,1,1,0,0,1,1
+406,Angelica Hayes,ldickson@goodman-barker.com,2022-10-01 00:00:00,2,934.57,467.285,2,1,0,1,0,1
+407,Lauren Baker,owilliams@yahoo.com,2023-01-18 00:00:00,1,1606.45,1606.45,2,2,0,0,0,1
+408,Jerome Schneider,qgreen@gmail.com,2022-01-12 00:00:00,2,391.31,195.655,0,0,0,0,0,1
+409,Ian Miller,clarklisa@mueller-guzman.com,2024-11-14 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+410,Greg Mack,dmullins@perry.net,2022-01-11 00:00:00,2,432.92,216.46,0,0,0,0,0,1
+411,Elizabeth Dean,bthomas@yahoo.com,2024-04-08 00:00:00,4,1678.3199999999997,419.5799999999999,0,0,0,0,0,1
+412,Melissa Ross,garciatracy@simpson.com,2023-05-31 00:00:00,0,0.0,0.0,2,1,1,0,0,1
+413,Christopher Wright,aaron24@hotmail.com,2022-03-03 00:00:00,2,1601.31,800.655,3,1,2,0,0,1
+414,Eric Morgan,jenniferholland@yahoo.com,2022-02-05 00:00:00,2,490.16,245.08,2,1,1,0,0,1
+415,John Johnson,brandon92@yahoo.com,2024-01-21 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+416,Craig Martin,deckermichael@yahoo.com,2022-06-29 00:00:00,2,300.2,150.1,1,1,0,0,0,1
+417,Erica Robinson,galvanbruce@gmail.com,2024-01-14 00:00:00,1,260.28000000000003,260.28000000000003,3,2,0,1,1,1
+418,Mark Lee,scottloretta@taylor.com,2021-07-01 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+419,Bryan Whitney,ccurry@williams.com,2021-10-08 00:00:00,2,689.1800000000001,344.59000000000003,1,0,0,1,0,1
+420,Heather Shields,kennethlewis@gill-white.com,2025-03-16 00:00:00,1,163.06,163.06,2,1,1,0,1,1
+421,Kenneth Brown,stephaniejohnson@harper.com,2022-05-08 00:00:00,2,1235.23,617.615,0,0,0,0,0,1
+422,Elizabeth Knox,michellejames@roberson.com,2022-09-11 00:00:00,1,734.08,734.08,2,0,0,2,1,1
+423,Daniel Rich,mcdonaldmelody@garcia-pittman.org,2020-11-26 00:00:00,0,0.0,0.0,3,0,2,1,2,1
+424,Michael Williams,morrisann@hotmail.com,2020-08-13 00:00:00,1,139.76,139.76,1,1,0,0,0,1
+425,Ashley Garza,adamsdavid@carter-hubbard.com,2024-08-29 00:00:00,2,1697.1599999999999,848.5799999999999,1,1,0,0,0,1
+426,Andrew Buchanan,guzmanjulie@chambers.com,2023-03-08 00:00:00,3,961.15,320.3833333333333,0,0,0,0,0,1
+427,Alec Mayer,chrisflores@hotmail.com,2024-09-15 00:00:00,2,1532.33,766.165,0,0,0,0,0,1
+428,Melissa Edwards,shawnrobinson@hotmail.com,2022-01-11 00:00:00,0,0.0,0.0,2,0,1,1,0,1
+429,Andrew Cordova,gtapia@hayes.com,2024-03-11 00:00:00,1,256.97,256.97,2,1,1,0,0,1
+430,Kristie Marquez,jyoung@bell-cunningham.info,2020-05-27 00:00:00,1,295.0,295.0,1,1,0,0,0,1
+431,Leah Parker,alejandra08@alvarado-payne.info,2024-09-22 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+432,Michael Davis,michael89@davis-smith.com,2024-06-20 00:00:00,1,681.98,681.98,2,1,0,1,1,1
+433,Vanessa Mills,katelyn09@gmail.com,2021-01-23 00:00:00,1,463.45,463.45,2,0,1,1,0,1
+434,Emily Irwin,hodgechelsea@martin.info,2021-01-23 00:00:00,2,467.09000000000003,233.54500000000002,1,0,1,0,1,1
+435,Richard Brock,wreese@stewart.info,2020-07-25 00:00:00,1,69.0,69.0,2,1,0,1,2,1
+436,Crystal Howard,charlesmichael@watson.biz,2023-04-16 00:00:00,1,481.4,481.4,2,2,0,0,0,1
+437,Kelsey Mclaughlin,nathanhaas@yahoo.com,2021-03-28 00:00:00,2,253.04000000000002,126.52000000000001,1,0,0,1,0,1
+438,Erika Ferrell,amylee@oliver-norton.biz,2024-02-09 00:00:00,2,388.36,194.18,1,0,0,1,0,1
+439,Ashley Davis,angelagray@jordan.com,2025-01-17 00:00:00,1,862.4,862.4,1,1,0,0,1,1
+440,James Zuniga,joshuamorgan@williams.com,2022-05-29 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+441,Brandy Walker,jesse22@bell-miller.com,2020-09-07 00:00:00,2,933.66,466.83,2,2,0,0,0,1
+442,Daniel Meyer,clawrence@hotmail.com,2022-01-07 00:00:00,2,1000.08,500.04,1,0,1,0,1,1
+443,Samantha Thompson,stewartchristopher@gmail.com,2020-09-06 00:00:00,1,1243.72,1243.72,2,1,0,1,0,1
+444,Parker Swanson,lsullivan@porter-joyce.com,2022-08-13 00:00:00,2,1240.75,620.375,2,0,2,0,2,1
+445,Raymond Stuart,patricia11@rice-king.com,2023-12-14 00:00:00,2,1383.3600000000001,691.6800000000001,1,1,0,0,0,1
+446,Jonathon Potts,erikastein@hotmail.com,2024-08-26 00:00:00,2,1016.9399999999999,508.46999999999997,1,0,1,0,0,1
+447,Christopher Parker,stevensjohn@mcdonald.com,2022-09-20 00:00:00,2,1128.91,564.455,1,1,0,0,1,1
+448,Christine West,cruzstephanie@sullivan.com,2025-01-13 00:00:00,1,215.9,215.9,1,0,1,0,0,1
+449,Austin Walters,erik36@hotmail.com,2022-12-31 00:00:00,2,2051.39,1025.695,1,1,0,0,0,1
+450,Kimberly French,bryanharris@white-delgado.org,2024-04-15 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+451,Nicole Trujillo,cody75@gmail.com,2025-02-13 00:00:00,1,1117.76,1117.76,5,2,0,3,2,1
+452,Wanda Ford,jasonallison@hotmail.com,2020-08-05 00:00:00,2,244.66000000000003,122.33000000000001,2,0,1,1,1,1
+453,Robert Harrison,nguyenlindsey@hopkins.com,2024-04-26 00:00:00,1,107.8,107.8,2,0,2,0,0,1
+454,Tara Dougherty,maustin@torres.com,2020-11-21 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+455,Dr. Jacqueline Lewis,mcbriderebecca@yahoo.com,2024-02-19 00:00:00,2,808.76,404.38,0,0,0,0,0,1
+456,Jennifer Turner,nolsen@adams.org,2023-11-12 00:00:00,2,1994.81,997.405,1,1,0,0,1,1
+457,David Jones,hwood@gmail.com,2020-09-10 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+458,Mr. Justin Cole MD,mpace@yahoo.com,2022-02-13 00:00:00,2,1671.13,835.565,1,1,0,0,0,1
+459,Mark Cain,ndean@conway.org,2020-12-16 00:00:00,1,281.4,281.4,3,1,1,1,0,1
+460,Emily Curtis,tabitha71@martinez.net,2022-07-10 00:00:00,2,340.39,170.195,0,0,0,0,0,1
+461,Brandon Tyler,awest@hotmail.com,2024-08-11 00:00:00,1,257.5,257.5,3,0,3,0,0,1
+462,Ms. Kelly Gamble,polsen@hotmail.com,2024-03-05 00:00:00,0,0.0,0.0,2,1,0,1,0,1
+463,Joshua James,petersonanna@jones-bradley.com,2022-05-28 00:00:00,0,0.0,0.0,2,1,1,0,0,1
+464,Richard Martin,rcombs@fernandez-jimenez.com,2024-08-27 00:00:00,0,0.0,0.0,2,0,2,0,0,1
+465,David Gutierrez,timothy29@hotmail.com,2024-08-25 00:00:00,0,0.0,0.0,4,0,3,1,2,1
+466,Nicole Henry,danielkelly@hotmail.com,2023-10-17 00:00:00,1,784.6200000000001,784.6200000000001,2,0,2,0,0,1
+467,Travis Compton,gfernandez@sexton-lamb.com,2023-04-27 00:00:00,1,344.53999999999996,344.53999999999996,1,1,0,0,1,1
+468,Mrs. Margaret White,melissa69@bartlett-pitts.net,2025-02-04 00:00:00,2,2091.58,1045.79,3,0,0,3,0,1
+469,Kevin Daugherty,kimberlysosa@hotmail.com,2022-12-22 00:00:00,0,0.0,0.0,2,0,1,1,1,1
+470,Kenneth Faulkner,irich@willis.com,2024-06-05 00:00:00,2,1551.1499999999999,775.5749999999999,1,0,0,1,0,1
+471,Julie Blake,torressarah@yahoo.com,2024-05-01 00:00:00,1,815.87,815.87,1,0,1,0,1,1
+472,Joel Bradshaw,johnkent@gmail.com,2023-01-26 00:00:00,0,0.0,0.0,3,1,1,1,0,1
+473,Michael Hale,jessicaweiss@gmail.com,2021-12-20 00:00:00,2,238.05,119.025,3,1,1,1,3,1
+474,Richard Thompson,kboyd@wilson-mcdonald.org,2024-04-01 00:00:00,2,1185.75,592.875,0,0,0,0,0,1
+475,Jorge Lewis,michael68@park.com,2024-03-19 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+476,Jennifer Fitzgerald,fcabrera@gmail.com,2023-11-25 00:00:00,3,2055.05,685.0166666666668,3,2,0,1,0,1
+477,Maria Rose,johnbrown@yahoo.com,2024-01-27 00:00:00,1,170.39999999999998,170.39999999999998,2,1,1,0,0,1
+478,Jeffrey Garrett,mcneiljohn@kelly-garcia.com,2021-08-03 00:00:00,2,1220.74,610.37,0,0,0,0,0,1
+479,Annette Martin,joseph34@gmail.com,2021-05-19 00:00:00,0,0.0,0.0,3,1,0,2,2,1
+480,Laura King,brennanmaria@solis-banks.com,2024-12-02 00:00:00,1,646.16,646.16,2,1,0,1,0,1
+481,Paige Lopez,banderson@gmail.com,2024-01-02 00:00:00,3,2842.6000000000004,947.5333333333334,1,1,0,0,0,1
+482,Crystal Wong,cory46@frank.com,2022-05-31 00:00:00,3,754.76,251.58666666666667,1,0,0,1,0,1
+483,Tyler Mccormick,bhiggins@wilson-ellis.com,2022-03-09 00:00:00,2,528.3699999999999,264.18499999999995,0,0,0,0,0,1
+484,Eric Suarez,barbarapatton@gmail.com,2024-10-29 00:00:00,1,963.1999999999999,963.1999999999999,2,2,0,0,1,1
+485,John Spencer,nathaniel52@yahoo.com,2022-05-17 00:00:00,1,106.92,106.92,1,0,1,0,0,1
+486,Ryan Graham,teresabaldwin@gmail.com,2024-12-16 00:00:00,1,197.3,197.3,2,2,0,0,1,1
+487,Julie Luna,james35@yahoo.com,2021-09-11 00:00:00,3,1133.98,377.99333333333334,1,1,0,0,0,1
+488,Heather Griffin,felicia13@yahoo.com,2024-05-02 00:00:00,0,0.0,0.0,2,1,1,0,2,1
+489,Eugene Burns,chandleremily@woodward.info,2024-06-29 00:00:00,2,2163.9,1081.95,0,0,0,0,0,1
+490,Debra Tran,donaldbennett@gmail.com,2024-02-13 00:00:00,1,92.52,92.52,2,0,1,1,1,1
+491,Luke Johnson,leblancdonald@hotmail.com,2023-07-01 00:00:00,1,435.04999999999995,435.04999999999995,2,0,0,2,0,1
+492,Jacqueline Cruz,browncameron@bowman-ramirez.net,2024-01-27 00:00:00,2,215.96,107.98,1,0,1,0,0,1
+493,Jennifer Brown,zacharycole@yahoo.com,2021-11-12 00:00:00,1,300.0,300.0,2,0,2,0,1,1
+494,Kevin Jackson,jon46@yoder-baker.info,2023-07-09 00:00:00,1,90.51,90.51,2,0,0,2,1,1
+495,John White,millerryan@roberts-romero.com,2025-04-23 00:00:00,0,0.0,0.0,2,1,1,0,1,1
+496,Brittany Baker,hilljustin@hotmail.com,2021-12-14 00:00:00,2,2103.92,1051.96,1,1,0,0,0,1
+497,Jamie Casey,banderson@campbell.biz,2021-09-19 00:00:00,0,0.0,0.0,2,0,2,0,1,1
+498,Paula Hayes MD,edwardsjay@yahoo.com,2021-11-30 00:00:00,1,263.32,263.32,3,1,0,2,1,1
+499,Jane King,richard26@yahoo.com,2023-02-27 00:00:00,1,1433.4399999999998,1433.4399999999998,3,1,1,1,1,1
+500,Kelli Strong,mcgrathmelinda@gmail.com,2021-02-15 00:00:00,1,68.46,68.46,1,1,0,0,1,1
+9001,,,,0,0.0,0.0,2,0,1,1,0,0
+9002,,,,0,0.0,0.0,2,1,1,0,2,0
+9003,,,,1,105.83999999999999,105.83999999999999,1,0,0,1,0,0
+9004,,,,1,15.23,15.23,1,0,1,0,0,0
+9005,,,,1,95.35,95.35,1,1,0,0,0,0
+9006,,,,0,0.0,0.0,2,0,1,1,0,0
+9007,,,,0,0.0,0.0,2,0,0,2,0,0
+9008,,,,0,0.0,0.0,2,1,1,0,2,0
+9009,,,,0,0.0,0.0,2,0,1,1,0,0
+9010,,,,0,0.0,0.0,2,0,1,1,0,0
+9011,,,,2,2145.59,1072.795,0,0,0,0,0,0
+9012,,,,1,363.42,363.42,1,0,1,0,0,0
+9013,,,,2,1503.5900000000001,751.7950000000001,0,0,0,0,0,0
+9014,,,,0,0.0,0.0,2,1,0,1,0,0
+9015,,,,2,1318.49,659.245,0,0,0,0,0,0
+9016,,,,1,290.04,290.04,1,0,1,0,0,0
+9017,,,,2,522.12,261.06,0,0,0,0,0,0
+9018,,,,1,650.64,650.64,1,1,0,0,0,0
+9019,,,,2,1483.23,741.615,0,0,0,0,0,0
+9020,,,,1,910.56,910.56,1,0,1,0,1,0
+9021,,,,0,0.0,0.0,2,0,2,0,0,0
+9022,,,,0,0.0,0.0,2,0,1,1,0,0
+9023,,,,0,0.0,0.0,2,0,2,0,2,0
+9024,,,,0,0.0,0.0,2,1,0,1,1,0
+9025,,,,1,339.83,339.83,1,1,0,0,0,0
+9026,,,,1,375.76,375.76,1,0,1,0,0,0
+9027,,,,1,990.59,990.59,1,0,1,0,1,0
+9028,,,,2,917.71,458.855,0,0,0,0,0,0
+9029,,,,1,204.21,204.21,1,1,0,0,1,0
+9030,,,,1,78.48,78.48,1,1,0,0,1,0
+9031,,,,2,1684.92,842.46,0,0,0,0,0,0
+9032,,,,1,55.86,55.86,1,1,0,0,1,0
+9033,,,,1,1178.0,1178.0,1,0,0,1,0,0
+9034,,,,1,79.65,79.65,1,0,0,1,0,0
+9035,,,,1,686.72,686.72,1,0,1,0,0,0
+9036,,,,1,54.510000000000005,54.510000000000005,1,0,0,1,1,0
+9037,,,,0,0.0,0.0,2,2,0,0,0,0
+9038,,,,1,1632.2400000000002,1632.2400000000002,1,0,1,0,1,0
+9039,,,,1,289.0,289.0,1,0,0,1,1,0
+9040,,,,2,689.02,344.51,0,0,0,0,0,0
+9041,,,,1,251.70000000000002,251.70000000000002,1,0,1,0,0,0
+9042,,,,2,907.41,453.705,0,0,0,0,0,0
+9043,,,,2,1464.16,732.08,0,0,0,0,0,0
+9044,,,,1,499.65000000000003,499.65000000000003,1,1,0,0,1,0
+9045,,,,1,675.57,675.57,1,1,0,0,1,0
+9046,,,,1,289.9,289.9,1,1,0,0,0,0
+9047,,,,1,1465.09,1465.09,1,0,0,1,1,0
+9048,,,,1,187.44,187.44,1,0,1,0,0,0
+9049,,,,2,462.03999999999996,231.01999999999998,0,0,0,0,0,0
+9050,,,,1,149.91,149.91,1,0,1,0,0,0
+9051,,,,0,0.0,0.0,2,0,1,1,0,0
+9052,,,,0,0.0,0.0,2,0,2,0,0,0
+9053,,,,2,355.35,177.675,0,0,0,0,0,0
+9054,,,,2,636.76,318.38,0,0,0,0,0,0
+9055,,,,1,431.6,431.6,1,0,1,0,1,0
+9056,,,,2,1022.4000000000001,511.20000000000005,0,0,0,0,0,0
+9057,,,,0,0.0,0.0,2,1,1,0,0,0
+9058,,,,2,1375.16,687.58,0,0,0,0,0,0
+9059,,,,1,608.26,608.26,1,0,1,0,0,0
+9060,,,,2,1205.32,602.66,0,0,0,0,0,0
+9061,,,,1,82.04,82.04,1,0,1,0,0,0
+9062,,,,1,398.02,398.02,1,0,0,1,0,0
+9063,,,,1,805.56,805.56,1,0,0,1,0,0
+9064,,,,1,759.1999999999999,759.1999999999999,1,0,0,1,0,0
+9065,,,,1,356.5,356.5,1,0,0,1,1,0
+9066,,,,1,519.5999999999999,519.5999999999999,1,0,1,0,0,0
+9067,,,,0,0.0,0.0,2,0,1,1,1,0
+9068,,,,0,0.0,0.0,2,0,0,2,2,0
+9069,,,,1,759.2,759.2,1,0,0,1,0,0
+9070,,,,1,653.1,653.1,1,0,0,1,0,0
+9071,,,,0,0.0,0.0,2,0,1,1,0,0
+9072,,,,1,552.44,552.44,1,1,0,0,1,0
+9073,,,,1,70.42,70.42,1,0,1,0,0,0
+9074,,,,1,1376.46,1376.46,1,0,0,1,0,0
+9075,,,,1,1497.12,1497.12,1,0,0,1,0,0
+9076,,,,1,475.25,475.25,1,1,0,0,0,0
+9077,,,,2,1186.8999999999999,593.4499999999999,0,0,0,0,0,0
+9078,,,,1,1010.36,1010.36,1,1,0,0,1,0
+9079,,,,2,2352.33,1176.165,0,0,0,0,0,0
+9080,,,,1,177.96,177.96,1,0,1,0,0,0
+9081,,,,1,130.08,130.08,1,0,1,0,0,0
+9082,,,,1,298.88,298.88,1,0,1,0,0,0
+9083,,,,0,0.0,0.0,2,0,1,1,2,0
+9084,,,,0,0.0,0.0,2,0,0,2,1,0
+9085,,,,0,0.0,0.0,2,0,2,0,1,0
+9086,,,,0,0.0,0.0,2,1,0,1,0,0
+9087,,,,1,417.59999999999997,417.59999999999997,1,0,0,1,0,0
+9088,,,,1,1817.73,1817.73,1,0,0,1,1,0
+9089,,,,2,605.65,302.825,0,0,0,0,0,0
+9090,,,,1,103.46,103.46,1,0,1,0,0,0
+9091,,,,2,985.19,492.595,0,0,0,0,0,0
+9092,,,,1,132.0,132.0,1,0,0,1,1,0
+9093,,,,1,205.44,205.44,1,0,1,0,1,0
+9094,,,,0,0.0,0.0,2,1,0,1,0,0
+9095,,,,2,1009.6499999999999,504.82499999999993,0,0,0,0,0,0
+9096,,,,1,1199.6,1199.6,1,0,0,1,1,0
+9097,,,,2,831.1999999999999,415.59999999999997,0,0,0,0,0,0
+9098,,,,0,0.0,0.0,2,1,0,1,1,0
+9099,,,,1,113.85,113.85,1,0,0,1,0,0
+9100,,,,1,293.04,293.04,1,0,1,0,0,0
+9101,,,,0,0.0,0.0,1,1,0,0,0,0
+9102,,,,1,454.6,454.6,0,0,0,0,0,0
+9103,,,,0,0.0,0.0,1,0,1,0,1,0
+9104,,,,0,0.0,0.0,1,0,0,1,0,0
+9105,,,,0,0.0,0.0,1,0,1,0,1,0
+9106,,,,0,0.0,0.0,1,1,0,0,0,0
+9107,,,,1,346.16,346.16,0,0,0,0,0,0
+9108,,,,1,384.16,384.16,0,0,0,0,0,0
+9109,,,,1,177.18,177.18,0,0,0,0,0,0
+9110,,,,1,311.88,311.88,0,0,0,0,0,0
+9111,,,,0,0.0,0.0,1,0,0,1,0,0
+9112,,,,0,0.0,0.0,1,0,1,0,0,0
+9113,,,,0,0.0,0.0,1,0,0,1,0,0
+9114,,,,0,0.0,0.0,1,0,1,0,0,0
+9115,,,,0,0.0,0.0,1,1,0,0,0,0
+9116,,,,0,0.0,0.0,1,1,0,0,0,0
+9117,,,,0,0.0,0.0,1,1,0,0,0,0
+9118,,,,0,0.0,0.0,1,0,1,0,0,0
+9119,,,,1,1189.44,1189.44,0,0,0,0,0,0
+9120,,,,1,549.9,549.9,0,0,0,0,0,0
+9121,,,,1,238.42000000000002,238.42000000000002,0,0,0,0,0,0
+9122,,,,1,761.4,761.4,0,0,0,0,0,0
+9123,,,,1,290.36,290.36,0,0,0,0,0,0
+9124,,,,1,265.86,265.86,0,0,0,0,0,0
+9125,,,,1,168.03,168.03,0,0,0,0,0,0
+9126,,,,1,1478.66,1478.66,0,0,0,0,0,0
+9127,,,,1,486.75,486.75,0,0,0,0,0,0
+9128,,,,1,35.04,35.04,0,0,0,0,0,0
+9129,,,,1,578.76,578.76,0,0,0,0,0,0
+9130,,,,1,142.44,142.44,0,0,0,0,0,0
+9131,,,,1,462.0,462.0,0,0,0,0,0,0
+9132,,,,1,437.68,437.68,0,0,0,0,0,0
+9133,,,,1,547.6,547.6,0,0,0,0,0,0
+9134,,,,1,920.3599999999999,920.3599999999999,0,0,0,0,0,0
+9135,,,,1,68.08,68.08,0,0,0,0,0,0
+9136,,,,1,147.06,147.06,0,0,0,0,0,0
+9137,,,,1,811.8000000000001,811.8000000000001,0,0,0,0,0,0
+9138,,,,1,243.68,243.68,0,0,0,0,0,0
+9139,,,,1,253.68,253.68,0,0,0,0,0,0
+9140,,,,1,894.96,894.96,0,0,0,0,0,0
+9141,,,,1,1011.84,1011.84,0,0,0,0,0,0
+9142,,,,1,1314.24,1314.24,0,0,0,0,0,0
+9143,,,,1,1408.1999999999998,1408.1999999999998,0,0,0,0,0,0
+9144,,,,1,78.54,78.54,0,0,0,0,0,0
+9145,,,,1,739.44,739.44,0,0,0,0,0,0
+9146,,,,1,328.79,328.79,0,0,0,0,0,0
+9147,,,,1,1798.92,1798.92,0,0,0,0,0,0
+9148,,,,1,1051.2,1051.2,0,0,0,0,0,0
+9149,,,,1,87.08,87.08,0,0,0,0,0,0
+9150,,,,1,775.4499999999999,775.4499999999999,0,0,0,0,0,0
+9151,,,,0,0.0,0.0,1,0,0,1,0,0
+9152,,,,0,0.0,0.0,1,1,0,0,0,0
+9153,,,,0,0.0,0.0,1,1,0,0,0,0
+9154,,,,0,0.0,0.0,1,0,0,1,0,0
+9155,,,,1,451.15000000000003,451.15000000000003,0,0,0,0,0,0
+9156,,,,1,519.75,519.75,0,0,0,0,0,0
+9157,,,,1,164.64,164.64,0,0,0,0,0,0
+9158,,,,1,907.82,907.82,0,0,0,0,0,0
+9159,,,,1,1172.8799999999999,1172.8799999999999,0,0,0,0,0,0
+9160,,,,1,71.2,71.2,0,0,0,0,0,0
+9161,,,,1,326.32,326.32,0,0,0,0,0,0
+9162,,,,1,83.58,83.58,0,0,0,0,0,0
+9163,,,,1,372.48,372.48,0,0,0,0,0,0
+9164,,,,1,464.64000000000004,464.64000000000004,0,0,0,0,0,0
+9165,,,,1,177.15,177.15,0,0,0,0,0,0
+9166,,,,1,369.64,369.64,0,0,0,0,0,0
+9167,,,,0,0.0,0.0,1,1,0,0,1,0
+9168,,,,1,197.88,197.88,0,0,0,0,0,0
+9169,,,,1,1064.0,1064.0,0,0,0,0,0,0
+9170,,,,1,352.0,352.0,0,0,0,0,0,0
+9171,,,,1,579.15,579.15,0,0,0,0,0,0
+9172,,,,1,942.02,942.02,0,0,0,0,0,0
+9173,,,,1,527.85,527.85,0,0,0,0,0,0
+9174,,,,1,356.2,356.2,0,0,0,0,0,0
+9175,,,,1,1227.23,1227.23,0,0,0,0,0,0
+9176,,,,0,0.0,0.0,1,1,0,0,1,0
+9177,,,,0,0.0,0.0,1,0,0,1,0,0
+9178,,,,0,0.0,0.0,1,0,0,1,0,0
+9179,,,,0,0.0,0.0,1,0,0,1,0,0
+9180,,,,0,0.0,0.0,1,1,0,0,0,0
+9181,,,,0,0.0,0.0,1,1,0,0,0,0
+9182,,,,0,0.0,0.0,1,1,0,0,0,0
+9183,,,,1,595.65,595.65,0,0,0,0,0,0
+9184,,,,1,817.9499999999999,817.9499999999999,0,0,0,0,0,0
+9185,,,,1,816.48,816.48,0,0,0,0,0,0
+9186,,,,1,118.06,118.06,0,0,0,0,0,0
+9187,,,,1,1725.2,1725.2,0,0,0,0,0,0
+9188,,,,1,1069.98,1069.98,0,0,0,0,0,0
+9189,,,,1,456.40000000000003,456.40000000000003,0,0,0,0,0,0
+9190,,,,1,806.64,806.64,0,0,0,0,0,0
+9191,,,,1,57.0,57.0,0,0,0,0,0,0
+9192,,,,1,530.1,530.1,0,0,0,0,0,0
+9193,,,,1,89.24,89.24,0,0,0,0,0,0
+9194,,,,1,660.08,660.08,0,0,0,0,0,0
+9195,,,,0,0.0,0.0,1,0,0,1,0,0
+9196,,,,0,0.0,0.0,1,0,0,1,0,0
+9197,,,,0,0.0,0.0,1,0,0,1,0,0
+9198,,,,0,0.0,0.0,1,1,0,0,0,0
+9199,,,,1,117.47,117.47,0,0,0,0,0,0
+9200,,,,1,1054.8,1054.8,0,0,0,0,0,0
+9201,,,,1,724.23,724.23,0,0,0,0,0,0
+9202,,,,1,324.79999999999995,324.79999999999995,0,0,0,0,0,0
+9203,,,,1,337.12,337.12,0,0,0,0,0,0
+9204,,,,1,656.7,656.7,0,0,0,0,0,0
+9205,,,,1,646.24,646.24,0,0,0,0,0,0
+9206,,,,1,43.82,43.82,0,0,0,0,0,0
+9207,,,,1,1083.6,1083.6,0,0,0,0,0,0
+9208,,,,0,0.0,0.0,1,0,0,1,0,0
+9209,,,,1,201.95,201.95,0,0,0,0,0,0
+9210,,,,1,116.6,116.6,0,0,0,0,0,0
+9211,,,,1,102.84,102.84,0,0,0,0,0,0
+9212,,,,1,641.62,641.62,0,0,0,0,0,0
+9213,,,,1,143.99,143.99,0,0,0,0,0,0
+9214,,,,1,258.6,258.6,0,0,0,0,0,0
+9215,,,,1,1366.82,1366.82,0,0,0,0,0,0
+9216,,,,1,174.25,174.25,0,0,0,0,0,0
+9217,,,,1,288.61,288.61,0,0,0,0,0,0
+9218,,,,1,311.2,311.2,0,0,0,0,0,0
+9219,,,,1,141.42000000000002,141.42000000000002,0,0,0,0,0,0
+9220,,,,1,225.11999999999998,225.11999999999998,0,0,0,0,0,0
+9221,,,,1,788.9,788.9,0,0,0,0,0,0
+9222,,,,1,33.12,33.12,0,0,0,0,0,0
+9223,,,,1,450.55,450.55,0,0,0,0,0,0
+9224,,,,1,811.2,811.2,0,0,0,0,0,0
+9225,,,,0,0.0,0.0,1,1,0,0,0,0
+9226,,,,0,0.0,0.0,1,0,1,0,0,0
+9227,,,,0,0.0,0.0,1,1,0,0,1,0
+9228,,,,0,0.0,0.0,1,0,1,0,0,0
+9229,,,,0,0.0,0.0,1,1,0,0,0,0
+9230,,,,0,0.0,0.0,1,0,0,1,0,0
+9231,,,,0,0.0,0.0,1,0,0,1,0,0
+9232,,,,1,1276.0,1276.0,0,0,0,0,0,0
+9233,,,,1,179.04,179.04,0,0,0,0,0,0
+9234,,,,1,200.69,200.69,0,0,0,0,0,0
+9235,,,,1,935.0,935.0,0,0,0,0,0,0
+9236,,,,1,822.8399999999999,822.8399999999999,0,0,0,0,0,0
+9237,,,,1,312.12,312.12,0,0,0,0,0,0
+9238,,,,1,502.38,502.38,0,0,0,0,0,0
+9239,,,,1,143.54999999999998,143.54999999999998,0,0,0,0,0,0
+9240,,,,1,342.29999999999995,342.29999999999995,0,0,0,0,0,0
+9241,,,,1,379.62,379.62,0,0,0,0,0,0
+9242,,,,0,0.0,0.0,1,0,1,0,1,0
+9243,,,,0,0.0,0.0,1,0,1,0,0,0
+9244,,,,0,0.0,0.0,1,0,1,0,1,0
+9245,,,,0,0.0,0.0,1,0,1,0,1,0
+9246,,,,1,406.15000000000003,406.15000000000003,0,0,0,0,0,0
+9247,,,,0,0.0,0.0,1,1,0,0,0,0
+9248,,,,0,0.0,0.0,1,1,0,0,1,0
+9249,,,,1,486.18,486.18,0,0,0,0,0,0
+9250,,,,1,199.35,199.35,0,0,0,0,0,0
+9251,,,,1,58.65,58.65,0,0,0,0,0,0
+9252,,,,1,1068.76,1068.76,0,0,0,0,0,0
+9253,,,,1,140.4,140.4,0,0,0,0,0,0
+9254,,,,1,249.0,249.0,0,0,0,0,0,0
+9255,,,,0,0.0,0.0,1,0,0,1,0,0
+9256,,,,0,0.0,0.0,1,0,1,0,0,0
+9257,,,,0,0.0,0.0,1,1,0,0,1,0
+9258,,,,0,0.0,0.0,1,0,0,1,0,0
+9259,,,,0,0.0,0.0,1,0,0,1,0,0
+9260,,,,0,0.0,0.0,1,0,0,1,1,0
+9261,,,,0,0.0,0.0,1,0,0,1,0,0
+9262,,,,0,0.0,0.0,1,1,0,0,0,0
+9263,,,,0,0.0,0.0,1,0,0,1,1,0
+9264,,,,0,0.0,0.0,1,1,0,0,1,0
+9265,,,,0,0.0,0.0,1,0,0,1,0,0
+9266,,,,0,0.0,0.0,1,0,1,0,1,0
+9267,,,,0,0.0,0.0,1,0,0,1,0,0
+9268,,,,1,303.09999999999997,303.09999999999997,0,0,0,0,0,0
+9269,,,,1,747.74,747.74,0,0,0,0,0,0
+9270,,,,1,1551.92,1551.92,0,0,0,0,0,0
+9271,,,,1,277.92,277.92,0,0,0,0,0,0
+9272,,,,1,40.0,40.0,0,0,0,0,0,0
+9273,,,,1,402.74,402.74,0,0,0,0,0,0
+9274,,,,0,0.0,0.0,1,0,0,1,0,0
+9275,,,,0,0.0,0.0,1,0,0,1,0,0
+9276,,,,0,0.0,0.0,1,1,0,0,1,0
+9277,,,,0,0.0,0.0,1,0,0,1,0,0
+9278,,,,0,0.0,0.0,1,0,1,0,0,0
+9279,,,,0,0.0,0.0,1,0,1,0,0,0
+9280,,,,0,0.0,0.0,1,1,0,0,0,0
+9281,,,,0,0.0,0.0,1,1,0,0,0,0
+9282,,,,0,0.0,0.0,1,1,0,0,0,0
+9283,,,,1,732.75,732.75,0,0,0,0,0,0
+9284,,,,1,166.68,166.68,0,0,0,0,0,0
+9285,,,,1,1015.74,1015.74,0,0,0,0,0,0
+9286,,,,1,250.02,250.02,0,0,0,0,0,0
+9287,,,,1,202.0,202.0,0,0,0,0,0,0
+9288,,,,1,75.3,75.3,0,0,0,0,0,0
+9289,,,,0,0.0,0.0,1,0,0,1,0,0
+9290,,,,0,0.0,0.0,1,0,1,0,0,0
+9291,,,,0,0.0,0.0,1,0,1,0,0,0
+9292,,,,0,0.0,0.0,1,0,1,0,0,0
+9293,,,,0,0.0,0.0,1,0,1,0,1,0
+9294,,,,0,0.0,0.0,1,0,0,1,0,0
+9295,,,,0,0.0,0.0,1,0,1,0,1,0
+9296,,,,0,0.0,0.0,1,0,1,0,0,0
+9297,,,,0,0.0,0.0,1,1,0,0,1,0
+9298,,,,0,0.0,0.0,1,0,0,1,0,0
+9299,,,,0,0.0,0.0,1,0,1,0,1,0
+9300,,,,1,37.349999999999994,37.349999999999994,0,0,0,0,0,0
+9301,,,,1,880.83,880.83,0,0,0,0,0,0
+9302,,,,1,702.4,702.4,0,0,0,0,0,0
+9303,,,,1,121.5,121.5,0,0,0,0,0,0
+9304,,,,1,1164.2400000000002,1164.2400000000002,0,0,0,0,0,0
+9305,,,,0,0.0,0.0,1,0,0,1,0,0
+9306,,,,0,0.0,0.0,1,1,0,0,1,0
+9307,,,,0,0.0,0.0,1,0,0,1,0,0
+9308,,,,0,0.0,0.0,1,0,0,1,0,0
+9309,,,,0,0.0,0.0,1,0,1,0,1,0
+9310,,,,0,0.0,0.0,1,0,1,0,0,0
+9311,,,,0,0.0,0.0,1,0,0,1,0,0
+9312,,,,0,0.0,0.0,1,0,0,1,1,0
+9313,,,,1,184.1,184.1,0,0,0,0,0,0
+9314,,,,1,228.64999999999998,228.64999999999998,0,0,0,0,0,0
+9315,,,,1,658.98,658.98,0,0,0,0,0,0
+9316,,,,1,375.3,375.3,0,0,0,0,0,0
+9317,,,,1,666.74,666.74,0,0,0,0,0,0
+9318,,,,1,103.46,103.46,0,0,0,0,0,0
+9319,,,,0,0.0,0.0,1,0,1,0,0,0
+9320,,,,0,0.0,0.0,1,1,0,0,1,0
+9321,,,,0,0.0,0.0,1,1,0,0,0,0
+9322,,,,0,0.0,0.0,1,1,0,0,0,0
+9323,,,,0,0.0,0.0,1,1,0,0,1,0
+9324,,,,0,0.0,0.0,1,0,1,0,1,0
+9325,,,,0,0.0,0.0,1,1,0,0,0,0
+9326,,,,0,0.0,0.0,1,1,0,0,0,0
+9327,,,,0,0.0,0.0,1,0,1,0,1,0
+9328,,,,0,0.0,0.0,1,0,1,0,0,0
+9329,,,,0,0.0,0.0,1,1,0,0,0,0
+9330,,,,0,0.0,0.0,1,0,0,1,1,0
+9331,,,,1,28.71,28.71,0,0,0,0,0,0
+9332,,,,1,16.47,16.47,0,0,0,0,0,0
+9333,,,,1,1299.2,1299.2,0,0,0,0,0,0
+9334,,,,1,260.88,260.88,0,0,0,0,0,0
+9335,,,,1,615.93,615.93,0,0,0,0,0,0
+9336,,,,1,478.9,478.9,0,0,0,0,0,0
+9337,,,,0,0.0,0.0,1,1,0,0,0,0
+9338,,,,0,0.0,0.0,1,0,1,0,0,0
+9339,,,,0,0.0,0.0,1,1,0,0,0,0
+9340,,,,0,0.0,0.0,1,0,0,1,0,0
+9341,,,,0,0.0,0.0,1,1,0,0,0,0
+9342,,,,0,0.0,0.0,1,1,0,0,1,0
+9343,,,,1,1731.8500000000001,1731.8500000000001,0,0,0,0,0,0
+9344,,,,0,0.0,0.0,1,1,0,0,1,0
+9345,,,,0,0.0,0.0,1,0,0,1,0,0
+9346,,,,0,0.0,0.0,1,1,0,0,0,0
+9347,,,,0,0.0,0.0,1,0,1,0,0,0
+9348,,,,0,0.0,0.0,1,0,0,1,0,0
+9349,,,,0,0.0,0.0,1,1,0,0,0,0
+9350,,,,0,0.0,0.0,1,1,0,0,1,0
+9351,,,,0,0.0,0.0,1,1,0,0,1,0
+9352,,,,0,0.0,0.0,1,0,0,1,1,0
+9353,,,,0,0.0,0.0,1,0,0,1,0,0
+9354,,,,0,0.0,0.0,1,0,1,0,0,0
+9355,,,,0,0.0,0.0,1,0,1,0,0,0
+9356,,,,0,0.0,0.0,1,0,0,1,1,0
+9357,,,,0,0.0,0.0,1,0,1,0,0,0
+9358,,,,0,0.0,0.0,1,0,0,1,1,0
+9359,,,,1,1056.25,1056.25,0,0,0,0,0,0
+9360,,,,1,655.5,655.5,0,0,0,0,0,0
+9361,,,,0,0.0,0.0,1,1,0,0,0,0
+9362,,,,0,0.0,0.0,1,0,1,0,0,0
+9363,,,,0,0.0,0.0,1,0,1,0,1,0
+9364,,,,0,0.0,0.0,1,0,0,1,1,0
+9365,,,,0,0.0,0.0,1,0,1,0,1,0
+9366,,,,0,0.0,0.0,1,0,0,1,0,0
+9367,,,,0,0.0,0.0,1,1,0,0,1,0
+9368,,,,0,0.0,0.0,1,1,0,0,0,0
+9369,,,,0,0.0,0.0,1,0,1,0,0,0
+9370,,,,0,0.0,0.0,1,0,0,1,0,0
+9371,,,,0,0.0,0.0,1,1,0,0,0,0
+9372,,,,0,0.0,0.0,1,1,0,0,0,0
+9373,,,,0,0.0,0.0,1,1,0,0,1,0
+9374,,,,1,1256.36,1256.36,0,0,0,0,0,0
